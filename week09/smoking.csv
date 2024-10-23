@@ -1,0 +1,1692 @@
+gender,age,marital_status,highest_qualification,nationality,ethnicity,State,gross_income,region,smoke,amt_weekends,amt_weekdays,type
+Male,38,Divorced,No Qualification,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,42,Single,No Qualification,USA,White,Newyork,"Under $2,600",The North,Yes,12,12,Packets
+Male,40,Married,Degree,USA,White,Chicago,"$28,600 to $36,400",The North,No,NA,NA,
+Female,40,Married,Degree,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Female,39,Married,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,37,Married,GCSE/O Level,USA,White,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Male,53,Married,Degree,USA,White,Chicago,"Above $36,400",The North,Yes,6,6,Packets
+Male,44,Single,Degree,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Male,40,Single,GCSE/CSE,USA,White,Missouri,"$2,600 to $5,200",The North,Yes,8,8,Hand-Rolled
+Female,41,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,Yes,15,12,Packets
+Male,72,Widowed,No Qualification,USA,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Male,49,Married,No Qualification,USA,White,Ohio,Refused,The North,No,NA,NA,
+Male,29,Married,Degree,USA,White,Missouri,"Above $36,400",The North,No,NA,NA,
+Female,79,Widowed,No Qualification,USA,White,Newyork,"$10,400 to $15,600",The North,No,NA,NA,
+Male,25,Single,Degree,USA,White,Chicago,"$15,600 to $20,800",The North,No,NA,NA,
+Female,27,Single,Degree,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Female,30,Single,Degree,USA,White,Missouri,"$20,800 to $28,600",The North,No,NA,NA,
+Male,47,Divorced,No Qualification,USA,White,Newyork,"$10,400 to $15,600",The North,No,NA,NA,
+Female,69,Single,Other/Sub Degree,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Male,55,Married,No Qualification,USA,White,Ohio,"$20,800 to $28,600",The North,No,NA,NA,
+Female,34,Married,GCSE/CSE,USA,White,Missouri,"$2,600 to $5,200",The North,Yes,6,12,Packets
+Female,36,Married,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",The North,Yes,5,2,Packets
+Female,56,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,Yes,20,20,Packets
+Male,71,Divorced,No Qualification,USA,White,Ohio,Unknown,The North,No,NA,NA,
+Female,38,Married,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,79,Married,No Qualification,USA,White,Newyork,"Under $2,600",The North,No,NA,NA,
+Female,58,Divorced,No Qualification,USA,White,Chicago,"$5,200 to $10,400",The North,Yes,25,20,Packets
+Female,69,Married,No Qualification,USA,White,Ohio,"Under $2,600",The North,No,NA,NA,
+Male,83,Widowed,No Qualification,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,73,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,42,Married,GCSE/O Level,USA,White,Chicago,Refused,The North,Yes,40,15,Packets
+Female,31,Married,GCSE/CSE,USA,White,Ohio,"Under $2,600",The North,Yes,15,15,Both/Mainly Packets
+Male,26,Single,GCSE/CSE,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,27,Separated,Degree,USA,White,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Female,57,Married,Higher/Sub Degree,USA,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,30,Married,ONC/BTEC,USA,White,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Female,22,Single,A Levels,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,78,Widowed,No Qualification,USA,White,Newyork,"Under $2,600",The North,Yes,20,20,Packets
+Female,49,Married,ONC/BTEC,USA,Mixed,Chicago,"$15,600 to $20,800",The North,No,NA,NA,
+Male,74,Married,Other/Sub Degree,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Male,85,Widowed,Degree,Scottish,White,Missouri,"$20,800 to $28,600",The North,No,NA,NA,
+Male,75,Married,Other/Sub Degree,USA,White,Newyork,Refused,The North,No,NA,NA,
+Female,80,Widowed,GCSE/O Level,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,37,Married,Degree,USA,White,Ohio,"Under $2,600",The North,No,NA,NA,
+Female,33,Single,Degree,USA,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Male,41,Divorced,A Levels,USA,White,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Female,81,Widowed,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,76,Widowed,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,Yes,6,6,Packets
+Female,58,Married,A Levels,USA,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Male,59,Married,Other/Sub Degree,USA,White,Newyork,"$15,600 to $20,800",The North,Yes,25,25,Packets
+Female,40,Divorced,GCSE/O Level,USA,White,Chicago,"$5,200 to $10,400",The North,Yes,4,4,Packets
+Female,54,Divorced,GCSE/O Level,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Male,49,Married,Degree,Scottish,White,Missouri,"Above $36,400",The North,No,NA,NA,
+Female,79,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,28,Married,Other/Sub Degree,USA,White,Chicago,"$20,800 to $28,600",The North,Yes,20,20,Packets
+Male,44,Married,Other/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Female,42,Single,GCSE/CSE,USA,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Female,36,Single,GCSE/CSE,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,89,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,64,Married,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Female,76,Married,No Qualification,USA,White,Missouri,"Under $2,600",The North,No,NA,NA,
+Female,76,Married,No Qualification,USA,White,Newyork,"Under $2,600",The North,No,NA,NA,
+Female,61,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,81,Widowed,GCSE/O Level,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Female,20,Single,No Qualification,USA,White,Missouri,"$2,600 to $5,200",The North,Yes,20,10,Packets
+Female,82,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,23,Single,GCSE/O Level,USA,White,Chicago,"$5,200 to $10,400",The North,Yes,20,10,Packets
+Male,41,Married,GCSE/O Level,USA,White,Ohio,"Above $36,400",The North,No,NA,NA,
+Female,31,Single,A Levels,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Female,44,Married,A Levels,USA,White,Newyork,"$20,800 to $28,600",The North,Yes,5,0,Packets
+Female,42,Married,Degree,Scottish,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Male,67,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",The North,Yes,20,20,Packets
+Male,53,Married,Degree,USA,White,Missouri,"$20,800 to $28,600",The North,No,NA,NA,
+Male,76,Married,No Qualification,USA,Black,Newyork,"$10,400 to $15,600",The North,No,NA,NA,
+Male,40,Married,Other/Sub Degree,USA,White,Chicago,"$2,600 to $5,200",The North,Yes,30,30,Hand-Rolled
+Male,44,Married,A Levels,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Female,31,Separated,GCSE/O Level,USA,White,Missouri,"$15,600 to $20,800",The North,Yes,20,20,Packets
+Male,43,Divorced,Other/Sub Degree,USA,White,Newyork,"$2,600 to $5,200",The North,Yes,20,20,Hand-Rolled
+Female,36,Separated,A Levels,USA,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,34,Divorced,GCSE/O Level,USA,Black,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Female,18,Single,GCSE/O Level,USA,Black,Missouri,"$2,600 to $5,200",The North,Yes,10,3,Packets
+Male,56,Married,No Qualification,USA,Black,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,73,Married,No Qualification,USA,Black,Chicago,"Under $2,600",The North,No,NA,NA,
+Female,22,Single,GCSE/CSE,USA,Black,Ohio,"$2,600 to $5,200",The North,Yes,20,20,Packets
+Female,33,Single,GCSE/CSE,USA,Black,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Male,27,Single,ONC/BTEC,USA,Black,Newyork,"$15,600 to $20,800",The North,Yes,10,0,Packets
+Female,33,Married,GCSE/O Level,USA,Black,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,63,Married,No Qualification,USA,Black,Ohio,"Under $2,600",The North,No,NA,NA,
+Female,64,Married,A Levels,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Male,54,Married,Degree,USA,White,Newyork,"Above $36,400",The North,No,NA,NA,
+Female,34,Married,Degree,USA,White,Chicago,"Under $2,600",The North,No,NA,NA,
+Male,78,Married,No Qualification,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Female,54,Married,No Qualification,USA,White,Missouri,"Under $2,600",The North,No,NA,NA,
+Male,56,Separated,GCSE/CSE,USA,White,Newyork,"$28,600 to $36,400",The North,No,NA,NA,
+Male,78,Widowed,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,37,Married,A Levels,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Male,54,Married,Degree,USA,White,Missouri,"$28,600 to $36,400",The North,No,NA,NA,
+Female,40,Married,GCSE/O Level,USA,White,Newyork,"$20,800 to $28,600",The North,Yes,15,15,Hand-Rolled
+Female,64,Divorced,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,42,Married,GCSE/O Level,Other,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Female,34,Married,Higher/Sub Degree,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,64,Married,No Qualification,USA,White,Newyork,"Under $2,600",The North,No,NA,NA,
+Female,50,Divorced,Other/Sub Degree,USA,White,Chicago,"$15,600 to $20,800",The North,No,NA,NA,
+Female,31,Married,ONC/BTEC,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Female,37,Married,Degree,USA,White,Missouri,"Above $36,400",The North,No,NA,NA,
+Male,81,Married,Degree,USA,White,Newyork,"$10,400 to $15,600",The North,No,NA,NA,
+Male,57,Separated,No Qualification,Welsh,White,Chicago,"$5,200 to $10,400",The North,Yes,10,10,Hand-Rolled
+Female,59,Married,Higher/Sub Degree,USA,White,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Male,66,Married,Degree,USA,White,Missouri,"$20,800 to $28,600",The North,No,NA,NA,
+Male,57,Married,No Qualification,USA,White,Newyork,"$20,800 to $28,600",The North,No,NA,NA,
+Female,78,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Male,49,Married,Degree,USA,White,Ohio,"$20,800 to $28,600",The North,No,NA,NA,
+Female,62,Married,GCSE/O Level,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Female,17,Single,GCSE/CSE,USA,black,Newyork,"$2,600 to $5,200",The North,No,NA,NA,
+Female,36,Single,GCSE/O Level,USA,black,Chicago,"$15,600 to $20,800",The North,No,NA,NA,
+Female,31,Single,No Qualification,USA,black,Ohio,Refused,The North,Yes,7,7,Packets
+Female,61,Married,Higher/Sub Degree,USA,black,Missouri,"$15,600 to $20,800",The North,Yes,25,25,Packets
+Male,71,Widowed,No Qualification,USA,black,Newyork,"$15,600 to $20,800",The North,Yes,40,40,Packets
+Female,75,Widowed,No Qualification,USA,black,Chicago,"$5,200 to $10,400",The North,Yes,12,12,Packets
+Female,43,Married,Higher/Sub Degree,USA,black,Ohio,"Above $36,400",The North,No,NA,NA,
+Female,68,Widowed,No Qualification,USA,black,Missouri,Refused,The North,No,NA,NA,
+Female,65,Widowed,Degree,USA,black,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Female,85,Widowed,No Qualification,USA,black,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,35,Separated,GCSE/O Level,USA,black,Ohio,"$5,200 to $10,400",The North,Yes,20,20,Both/Mainly Hand-Rolled
+Female,52,Married,Higher/Sub Degree,USA,black,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Female,28,Single,ONC/BTEC,USA,black,Newyork,"$5,200 to $10,400",The North,Yes,15,15,Packets
+Male,52,Single,ONC/BTEC,USA,black,Chicago,"$20,800 to $28,600",The North,No,NA,NA,
+Male,67,Widowed,No Qualification,Irish,black,Ohio,"$5,200 to $10,400",The North,Yes,25,25,Hand-Rolled
+Female,35,Divorced,No Qualification,USA,black,Missouri,"$5,200 to $10,400",The North,Yes,30,30,Both/Mainly Hand-Rolled
+Female,68,Married,No Qualification,USA,black,Newyork,"$2,600 to $5,200",The North,No,NA,NA,
+Female,34,Married,Higher/Sub Degree,Other,black,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,57,Divorced,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,Yes,20,12,Hand-Rolled
+Male,37,Married,Higher/Sub Degree,USA,White,Missouri,"$15,600 to $20,800",The North,Yes,8,8,Hand-Rolled
+Female,37,Divorced,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,Yes,15,15,Packets
+Male,43,Divorced,No Qualification,USA,White,Chicago,"$10,400 to $15,600",The North,Yes,15,15,Packets
+Male,59,Widowed,GCSE/O Level,USA,White,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Female,28,Single,Degree,Scottish,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Female,60,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,16,Single,GCSE/O Level,USA,White,Chicago,"Under $2,600",The North,No,NA,NA,
+Male,37,Single,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,Yes,40,40,Hand-Rolled
+Male,34,Married,No Qualification,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Female,73,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,24,Single,GCSE/O Level,USA,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,36,Single,Higher/Sub Degree,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Male,39,Separated,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",The North,Yes,20,20,Both/Mainly Packets
+Female,74,Married,No Qualification,USA,White,Newyork,Refused,The North,No,NA,NA,
+Female,32,Married,GCSE/CSE,USA,White,Chicago,"Under $2,600",The North,Yes,15,15,Packets
+Female,30,Married,Degree,Other,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Female,68,Married,GCSE/O Level,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Female,49,Married,No Qualification,Refused,Refused,Newyork,Refused,The North,No,NA,NA,
+Female,47,Married,Higher/Sub Degree,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Male,30,Single,Higher/Sub Degree,USA,White,Ohio,"$10,400 to $15,600",The North,Yes,30,30,Hand-Rolled
+Male,60,Divorced,No Qualification,USA,White,Missouri,"$10,400 to $15,600",The North,Yes,15,8,Hand-Rolled
+Male,72,Single,Other/Sub Degree,USA,White,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Male,73,Married,Degree,USA,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,48,Widowed,GCSE/O Level,USA,White,Ohio,"$10,400 to $15,600",The North,Yes,20,4,Packets
+Male,53,Divorced,Degree,USA,White,Missouri,"Above $36,400",The North,No,NA,NA,
+Male,17,Single,GCSE/O Level,USA,White,Newyork,Refused,The North,No,NA,NA,
+Female,58,Married,GCSE/O Level,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,34,Married,ONC/BTEC,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Male,44,Single,GCSE/O Level,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Male,23,Single,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,49,Married,Degree,USA,White,Chicago,"$20,800 to $28,600",The North,No,NA,NA,
+Male,30,Married,Degree,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Female,61,Widowed,GCSE/O Level,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Male,38,Separated,A Levels,USA,White,Newyork,"$10,400 to $15,600",The North,Yes,9,9,Hand-Rolled
+Male,30,Single,Degree,USA,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,44,Married,A Levels,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Male,91,Widowed,No Qualification,USA,White,Missouri,"Under $2,600",The North,No,NA,NA,
+Male,40,Divorced,GCSE/O Level,USA,White,Newyork,"Above $36,400",The North,No,NA,NA,
+Female,63,Married,Degree,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,61,Divorced,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,Yes,30,30,Packets
+Female,40,Married,Higher/Sub Degree,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,57,Married,No Qualification,USA,White,Newyork,"Under $2,600",The North,Yes,15,15,Both/Mainly Packets
+Female,41,Married,Degree,USA,White,Chicago,"$28,600 to $36,400",The North,No,NA,NA,
+Female,32,Single,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,Yes,7,5,Hand-Rolled
+Male,76,Married,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,35,Divorced,GCSE/O Level,USA,White,Newyork,"$10,400 to $15,600",The North,Yes,2,2,Packets
+Male,70,Married,No Qualification,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,75,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Female,74,Widowed,No Qualification,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Male,49,Married,Degree,USA,White,Newyork,"Above $36,400",The North,No,NA,NA,
+Female,56,Married,GCSE/O Level,USA,White,Chicago,"Under $2,600",The North,No,NA,NA,
+Male,60,Married,Degree,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Female,72,Widowed,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Male,17,Single,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,23,Single,Degree,USA,White,Chicago,"$20,800 to $28,600",The North,No,NA,NA,
+Male,79,Married,No Qualification,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Female,65,Separated,No Qualification,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,57,Married,Degree,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,37,Married,GCSE/O Level,USA,White,Chicago,"$15,600 to $20,800",The North,No,NA,NA,
+Male,79,Single,No Qualification,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Female,71,Single,No Qualification,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,87,Widowed,No Qualification,Refused,Refused,Newyork,Unknown,The North,No,NA,NA,
+Male,59,Married,Degree,USA,White,Chicago,"$28,600 to $36,400",The North,Yes,40,40,Packets
+Male,21,Single,ONC/BTEC,USA,White,Ohio,"$10,400 to $15,600",The North,Yes,20,8,Packets
+Female,66,Married,No Qualification,USA,White,Missouri,"Under $2,600",The North,No,NA,NA,
+Male,58,Married,Higher/Sub Degree,Welsh,White,Newyork,"$28,600 to $36,400",The North,No,NA,NA,
+Male,38,Married,GCSE/O Level,USA,White,Chicago,"Above $36,400",The North,Yes,30,15,Both/Mainly Packets
+Male,61,Widowed,Other/Sub Degree,Scottish,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Male,37,Separated,Degree,USA,White,Missouri,"Above $36,400",The North,No,NA,NA,
+Female,38,Married,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,34,Married,Degree,USA,White,Chicago,"$28,600 to $36,400",The North,No,NA,NA,
+Female,34,Married,Higher/Sub Degree,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Female,20,Single,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,77,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,Yes,20,20,Packets
+Female,31,Single,GCSE/O Level,USA,White,Chicago,"$2,600 to $5,200",The North,Yes,20,15,Hand-Rolled
+Male,28,Single,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,Yes,2,2,Packets
+Female,36,Married,GCSE/CSE,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,16,Single,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",The North,Yes,12,12,Packets
+Male,42,Married,GCSE/O Level,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,47,Married,Higher/Sub Degree,USA,black,Ohio,"Under $2,600",The North,No,NA,NA,
+Male,42,Married,GCSE/CSE,USA,black,Missouri,"$28,600 to $36,400",The North,No,NA,NA,
+Female,67,Widowed,No Qualification,USA,black,Newyork,"$2,600 to $5,200",The North,No,NA,NA,
+Female,72,Single,No Qualification,USA,black,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Male,40,Divorced,GCSE/O Level,USA,black,Ohio,"$10,400 to $15,600",The North,Yes,25,30,Packets
+Female,34,Single,Degree,USA,black,Missouri,"Above $36,400",The North,No,NA,NA,
+Male,75,Married,No Qualification,USA,black,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Female,35,Married,GCSE/O Level,USA,black,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,40,Separated,No Qualification,USA,black,Ohio,"$5,200 to $10,400",The North,Yes,10,10,Packets
+Female,46,Married,No Qualification,USA,black,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Male,23,Married,GCSE/O Level,USA,black,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Male,42,Married,GCSE/O Level,USA,black,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Male,63,Married,No Qualification,USA,black,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Female,33,Married,A Levels,USA,black,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,31,Married,GCSE/O Level,USA,black,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Male,54,Single,No Qualification,USA,black,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,33,Single,ONC/BTEC,USA,black,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Female,24,Single,Degree,USA,black,Missouri,"$15,600 to $20,800",The North,Yes,12,8,Hand-Rolled
+Female,80,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,77,Single,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Male,51,Married,No Qualification,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Male,16,Single,GCSE/O Level,USA,White,Missouri,Refused,The North,No,NA,NA,
+Male,27,Single,ONC/BTEC,USA,White,Newyork,Refused,The North,Yes,15,15,Packets
+Female,75,Single,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,24,Single,Degree,Other,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Male,78,Widowed,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,Yes,50,50,Both/Mainly Packets
+Female,20,Single,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,18,Single,GCSE/CSE,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,25,Separated,ONC/BTEC,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Female,55,Separated,No Qualification,USA,Mixed,Missouri,"$5,200 to $10,400",The North,Yes,10,7,Both/Mainly Hand-Rolled
+Female,29,Married,Higher/Sub Degree,USA,White,Newyork,"$10,400 to $15,600",The North,Yes,10,5,Packets
+Female,67,Divorced,No Qualification,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,79,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Male,44,Single,No Qualification,USA,White,Missouri,"$20,800 to $28,600",The North,No,NA,NA,
+Male,47,Married,Degree,USA,White,Newyork,"$20,800 to $28,600",The North,No,NA,NA,
+Female,41,Divorced,GCSE/O Level,USA,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,31,Married,GCSE/O Level,USA,White,Ohio,"$10,400 to $15,600",The North,Yes,5,0,Packets
+Male,32,Married,Other/Sub Degree,Scottish,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Female,68,Widowed,No Qualification,USA,White,Newyork,Refused,The North,No,NA,NA,
+Female,84,Widowed,No Qualification,USA,White,Chicago,"Under $2,600",The North,No,NA,NA,
+Male,67,Married,No Qualification,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Male,49,Married,No Qualification,USA,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Male,69,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,Yes,6,8,Hand-Rolled
+Male,64,Married,Higher/Sub Degree,USA,White,Chicago,"$28,600 to $36,400",The North,Yes,16,18,Packets
+Male,62,Married,No Qualification,USA,White,Ohio,"$20,800 to $28,600",The North,No,NA,NA,
+Male,52,Divorced,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Male,45,Married,ONC/BTEC,USA,White,Newyork,"$28,600 to $36,400",The North,No,NA,NA,
+Female,28,Divorced,No Qualification,USA,White,Chicago,"$10,400 to $15,600",The North,Yes,15,15,Packets
+Female,36,Single,GCSE/O Level,USA,White,Ohio,"$10,400 to $15,600",The North,No,NA,NA,
+Female,73,Divorced,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Male,48,Widowed,No Qualification,USA,White,Newyork,"$10,400 to $15,600",The North,No,NA,NA,
+Male,67,Widowed,No Qualification,USA,White,Chicago,"$10,400 to $15,600",The North,Yes,10,10,Both/Mainly Hand-Rolled
+Female,38,Divorced,GCSE/O Level,USA,White,Ohio,"$20,800 to $28,600",The North,No,NA,NA,
+Female,40,Divorced,GCSE/CSE,USA,White,Missouri,"$10,400 to $15,600",The North,Yes,5,0,Packets
+Male,43,Single,Other/Sub Degree,USA,White,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Female,30,Single,Degree,USA,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,70,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Female,82,Widowed,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,78,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,21,Single,GCSE/O Level,USA,White,Chicago,"Under $2,600",The North,Yes,20,10,Packets
+Male,67,Widowed,No Qualification,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Male,16,Single,GCSE/O Level,USA,White,Missouri,Refused,The North,No,NA,NA,
+Female,21,Single,GCSE/CSE,USA,White,Newyork,"$5,200 to $10,400",The North,Yes,40,15,Packets
+Male,68,Separated,No Qualification,USA,White,Chicago,"$5,200 to $10,400",The North,Yes,8,8,Packets
+Male,41,Married,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,Yes,20,10,Packets
+Male,33,Single,GCSE/O Level,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Female,28,Married,No Qualification,USA,White,Newyork,"Under $2,600",The North,No,NA,NA,
+Female,75,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,Yes,5,5,Packets
+Female,21,Single,Other/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",The North,Yes,5,10,Packets
+Female,69,Divorced,GCSE/CSE,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,38,Married,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,33,Single,GCSE/O Level,USA,White,Chicago,"$5,200 to $10,400",The North,Yes,10,4,Packets
+Female,47,Married,No Qualification,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Female,44,Single,GCSE/CSE,USA,White,Missouri,"$2,600 to $5,200",The North,Yes,35,35,Hand-Rolled
+Female,74,Married,No Qualification,USA,White,Newyork,"Under $2,600",The North,No,NA,NA,
+Female,29,Married,GCSE/O Level,USA,White,Chicago,"Under $2,600",The North,No,NA,NA,
+Female,23,Married,A Levels,Other,Asian,Ohio,"Under $2,600",The North,No,NA,NA,
+Female,72,Widowed,No Qualification,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,31,Widowed,No Qualification,USA,Asian,Newyork,"$5,200 to $10,400",The North,Yes,10,8,Packets
+Female,48,Married,No Qualification,USA,Asian,Chicago,"Under $2,600",The North,No,NA,NA,
+Female,29,Married,GCSE/O Level,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Male,72,Married,Other/Sub Degree,USA,Black,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,52,Married,No Qualification,USA,White,Newyork,Unknown,The North,No,NA,NA,
+Female,68,Single,Degree,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Male,48,Married,Other/Sub Degree,USA,Chinese,Ohio,"$15,600 to $20,800",The North,Yes,40,40,Both/Mainly Packets
+Female,55,Married,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Female,23,Married,ONC/BTEC,USA,White,Newyork,"$10,400 to $15,600",The North,Yes,7,7,Packets
+Female,66,Widowed,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,33,Single,ONC/BTEC,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Female,37,Married,GCSE/CSE,USA,White,Missouri,"Under $2,600",The North,Yes,10,10,Packets
+Male,42,Married,Degree,USA,White,Newyork,"$20,800 to $28,600",The North,No,NA,NA,
+Female,46,Married,No Qualification,USA,White,Chicago,"$10,400 to $15,600",The North,Yes,20,20,Hand-Rolled
+Male,57,Married,Other/Sub Degree,USA,White,Ohio,"$28,600 to $36,400",The North,No,NA,NA,
+Female,36,Married,GCSE/O Level,USA,White,Missouri,"Under $2,600",The North,No,NA,NA,
+Female,51,Married,GCSE/O Level,Scottish,White,Newyork,"$20,800 to $28,600",The North,No,NA,NA,
+Female,18,Single,GCSE/O Level,USA,White,Chicago,Refused,The North,Yes,8,8,Hand-Rolled
+Female,69,Married,GCSE/O Level,USA,White,Ohio,"Under $2,600",The North,No,NA,NA,
+Male,30,Single,Degree,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Male,51,Married,Higher/Sub Degree,USA,White,Newyork,"$28,600 to $36,400",The North,No,NA,NA,
+Female,63,Married,No Qualification,USA,Asian,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,31,Single,Degree,USA,White,Ohio,"$28,600 to $36,400",The North,No,NA,NA,
+Male,58,Single,No Qualification,USA,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Male,50,Married,GCSE/CSE,USA,White,Newyork,"$20,800 to $28,600",The North,Yes,15,15,Packets
+Female,67,Divorced,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,Yes,20,20,Hand-Rolled
+Male,20,Single,A Levels,USA,White,Ohio,Refused,The North,No,NA,NA,
+Female,45,Single,Degree,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Female,26,Married,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,30,Single,Degree,USA,White,Chicago,"$28,600 to $36,400",The North,No,NA,NA,
+Female,43,Married,Degree,Other,White,Ohio,Refused,The North,No,NA,NA,
+Male,73,Widowed,Other/Sub Degree,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,52,Married,Higher/Sub Degree,USA,White,Newyork,"Under $2,600",The North,No,NA,NA,
+Male,18,Single,No Qualification,USA,White,Chicago,"$10,400 to $15,600",The North,Yes,15,10,Both/Mainly Hand-Rolled
+Male,52,Married,No Qualification,USA,White,Ohio,"$28,600 to $36,400",The North,No,NA,NA,
+Male,33,Divorced,GCSE/O Level,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Female,56,Divorced,GCSE/O Level,USA,White,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Female,65,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,30,Single,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Female,40,Married,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,Yes,10,1,Both/Mainly Hand-Rolled
+Female,26,Single,GCSE/CSE,USA,White,Newyork,"$5,200 to $10,400",The North,Yes,20,20,Packets
+Male,74,Single,No Qualification,Refused,Refused,Chicago,Refused,The North,No,NA,NA,
+Female,44,Married,Degree,Welsh,White,Ohio,"$28,600 to $36,400",The North,No,NA,NA,
+Female,80,Widowed,No Qualification,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,67,Married,No Qualification,USA,White,Newyork,"Under $2,600",The North,No,NA,NA,
+Female,59,Married,No Qualification,USA,White,Chicago,Refused,The North,No,NA,NA,
+Female,28,Single,Higher/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",The North,Yes,15,10,Packets
+Female,31,Married,ONC/BTEC,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Male,25,Single,GCSE/CSE,USA,White,Newyork,"$15,600 to $20,800",The North,No,NA,NA,
+Female,64,Married,No Qualification,USA,White,Chicago,"Under $2,600",The North,No,NA,NA,
+Male,68,Married,Other/Sub Degree,USA,White,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Female,61,Widowed,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,50,Divorced,No Qualification,USA,White,Newyork,"$10,400 to $15,600",The North,No,NA,NA,
+Male,43,Married,Higher/Sub Degree,USA,Chinese,Chicago,"Above $36,400",The North,No,NA,NA,
+Female,19,Single,No Qualification,Other,Asian,Ohio,"Under $2,600",The North,No,NA,NA,
+Female,21,Married,GCSE/O Level,Other,Asian,Missouri,"Under $2,600",The North,No,NA,NA,
+Male,51,Divorced,Degree,USA,White,Newyork,"$2,600 to $5,200",The North,No,NA,NA,
+Male,65,Single,Other/Sub Degree,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,50,Separated,No Qualification,Other,Asian,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Female,38,Single,Other/Sub Degree,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Female,78,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,74,Widowed,No Qualification,Other,Asian,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,22,Single,Degree,Other,Asian,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Male,66,Married,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,48,Single,No Qualification,USA,White,Newyork,"$2,600 to $5,200",The North,No,NA,NA,
+Female,59,Married,No Qualification,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,69,Widowed,No Qualification,USA,White,Ohio,Unknown,The North,No,NA,NA,
+Female,76,Widowed,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,Yes,20,20,Packets
+Female,21,Single,ONC/BTEC,USA,White,Newyork,"$2,600 to $5,200",The North,No,NA,NA,
+Female,47,Married,GCSE/O Level,USA,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,77,Widowed,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Female,25,Single,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",The North,Yes,10,10,Packets
+Female,71,Widowed,No Qualification,USA,White,Newyork,"$2,600 to $5,200",The North,No,NA,NA,
+Female,24,Single,GCSE/O Level,USA,White,Chicago,"$2,600 to $5,200",The North,Yes,10,10,Packets
+Female,90,Widowed,No Qualification,USA,White,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Female,41,Divorced,GCSE/O Level,USA,White,Missouri,"$5,200 to $10,400",The North,Yes,10,10,Packets
+Female,69,Married,No Qualification,USA,White,Newyork,"Under $2,600",The North,No,NA,NA,
+Female,35,Married,GCSE/O Level,USA,White,Chicago,"$15,600 to $20,800",The North,No,NA,NA,
+Female,32,Single,No Qualification,USA,White,Ohio,"$5,200 to $10,400",The North,Yes,12,7,Packets
+Female,48,Single,GCSE/O Level,USA,White,Missouri,"$15,600 to $20,800",The North,No,NA,NA,
+Female,34,Married,No Qualification,USA,White,Newyork,"$2,600 to $5,200",The North,No,NA,NA,
+Female,28,Married,GCSE/O Level,USA,White,Chicago,"$5,200 to $10,400",The North,Yes,10,4,Packets
+Male,66,Married,No Qualification,USA,White,Ohio,Unknown,The North,No,NA,NA,
+Male,56,Married,GCSE/CSE,USA,White,Missouri,"$20,800 to $28,600",The North,No,NA,NA,
+Male,51,Married,Other/Sub Degree,USA,White,Newyork,"$10,400 to $15,600",The North,No,NA,NA,
+Female,63,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Male,44,Married,Degree,USA,White,Ohio,"$28,600 to $36,400",The North,No,NA,NA,
+Female,45,Married,Higher/Sub Degree,USA,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Male,55,Married,No Qualification,USA,White,Newyork,"$10,400 to $15,600",The North,Yes,20,20,Packets
+Female,55,Married,No Qualification,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,55,Married,A Levels,Scottish,White,Ohio,Refused,The North,No,NA,NA,
+Female,57,Married,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Male,76,Married,A Levels,Scottish,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,59,Married,No Qualification,USA,White,Chicago,"$5,200 to $10,400",The North,No,NA,NA,
+Female,46,Married,No Qualification,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Female,56,Married,No Qualification,USA,White,Missouri,"Under $2,600",The North,No,NA,NA,
+Male,67,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,73,Single,Other/Sub Degree,USA,White,Chicago,"$10,400 to $15,600",The North,No,NA,NA,
+Female,82,Widowed,No Qualification,USA,White,Ohio,Refused,The North,No,NA,NA,
+Male,75,Married,ONC/BTEC,USA,White,Missouri,Refused,The North,No,NA,NA,
+Female,41,Married,Other/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,40,Married,A Levels,USA,White,Chicago,"$15,600 to $20,800",The North,No,NA,NA,
+Male,37,Married,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Male,53,Married,ONC/BTEC,USA,White,Missouri,"$20,800 to $28,600",The North,No,NA,NA,
+Female,35,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,39,Married,GCSE/O Level,USA,White,Chicago,"$20,800 to $28,600",The North,No,NA,NA,
+Female,31,Separated,Other/Sub Degree,USA,White,Ohio,"$2,600 to $5,200",The North,No,NA,NA,
+Male,38,Married,ONC/BTEC,USA,White,Missouri,"Above $36,400",The North,No,NA,NA,
+Female,34,Divorced,GCSE/O Level,USA,White,Newyork,"$10,400 to $15,600",The North,Yes,25,10,Packets
+Female,36,Married,A Levels,USA,White,Chicago,"$10,400 to $15,600",The North,Yes,20,20,Packets
+Male,31,Single,Degree,USA,White,Ohio,"$20,800 to $28,600",The North,No,NA,NA,
+Female,31,Single,GCSE/CSE,USA,White,Missouri,"Under $2,600",The North,Yes,10,10,Hand-Rolled
+Male,35,Married,Degree,USA,White,Newyork,"$20,800 to $28,600",The North,No,NA,NA,
+Male,42,Married,No Qualification,USA,White,Chicago,"$20,800 to $28,600",The North,No,NA,NA,
+Male,30,Single,GCSE/CSE,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Female,39,Divorced,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Female,47,Married,GCSE/O Level,Scottish,White,Newyork,"$10,400 to $15,600",The North,No,NA,NA,
+Male,38,Married,Higher/Sub Degree,USA,White,Chicago,"$20,800 to $28,600",The North,No,NA,NA,
+Female,29,Divorced,A Levels,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Male,75,Widowed,No Qualification,USA,White,Missouri,"$5,200 to $10,400",The North,No,NA,NA,
+Female,47,Married,Higher/Sub Degree,USA,White,Newyork,Refused,The North,No,NA,NA,
+Male,55,Married,No Qualification,USA,White,Chicago,"$15,600 to $20,800",The North,No,NA,NA,
+Male,42,Married,Higher/Sub Degree,Other,White,Ohio,"Above $36,400",The North,No,NA,NA,
+Female,39,Married,Degree,USA,White,Missouri,"Above $36,400",The North,No,NA,NA,
+Male,64,Married,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Female,84,Widowed,No Qualification,USA,White,Chicago,"$2,600 to $5,200",The North,No,NA,NA,
+Female,49,Married,Higher/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Male,24,Single,Higher/Sub Degree,USA,White,Missouri,"$10,400 to $15,600",The North,No,NA,NA,
+Male,38,Single,GCSE/O Level,Scottish,White,Newyork,"$10,400 to $15,600",The North,Yes,30,30,Hand-Rolled
+Female,45,Married,Degree,Other,White,Chicago,"$15,600 to $20,800",The North,No,NA,NA,
+Female,47,Divorced,GCSE/O Level,USA,White,Ohio,"$5,200 to $10,400",The North,No,NA,NA,
+Male,37,Divorced,Higher/Sub Degree,USA,White,Missouri,"$28,600 to $36,400",The North,No,NA,NA,
+Male,59,Married,Higher/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",The North,No,NA,NA,
+Male,25,Single,Degree,Other,White,Chicago,"$28,600 to $36,400",The North,No,NA,NA,
+Male,56,Married,No Qualification,USA,White,Ohio,"$15,600 to $20,800",The North,No,NA,NA,
+Female,71,Divorced,GCSE/CSE,USA,White,Missouri,"$2,600 to $5,200",The North,No,NA,NA,
+Male,81,Widowed,Higher/Sub Degree,USA,White,Newyork,"$10,400 to $15,600",The North,No,NA,NA,
+Male,55,Married,A Levels,USA,White,Chicago,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,42,Married,GCSE/CSE,USA,White,Ohio,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Male,73,Married,No Qualification,USA,Black,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,43,Married,A Levels,USA,Black,Newyork,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,57,Divorced,No Qualification,USA,Black,Chicago,"$10,400 to $15,600",Midlands & East Anglia,Yes,15,10,Packets
+Female,47,Married,Degree,USA,Black,Ohio,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,29,Married,No Qualification,USA,Black,Missouri,"$10,400 to $15,600",Midlands & East Anglia,Yes,15,15,Packets
+Female,30,Widowed,GCSE/CSE,USA,Black,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,58,Married,No Qualification,USA,Black,Chicago,"$15,600 to $20,800",Midlands & East Anglia,Yes,30,25,Packets
+Female,58,Married,Degree,USA,Black,Ohio,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Male,70,Widowed,No Qualification,USA,Black,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,18,Single,A Levels,USA,Black,Newyork,Refused,Midlands & East Anglia,No,NA,NA,
+Female,45,Single,No Qualification,USA,Black,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,37,Single,GCSE/O Level,USA,Black,Ohio,"$15,600 to $20,800",Midlands & East Anglia,Yes,15,10,Both/Mainly Packets
+Female,44,Separated,GCSE/O Level,USA,Black,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,46,Married,Degree,USA,Black,Newyork,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Male,29,Married,Degree,USA,Black,Chicago,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,50,Married,GCSE/O Level,USA,Black,Ohio,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,51,Married,No Qualification,USA,Black,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,80,Widowed,No Qualification,USA,Black,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,85,Married,A Levels,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,49,Married,No Qualification,USA,White,Ohio,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,52,Married,No Qualification,USA,White,Missouri,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,58,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,49,Married,Degree,USA,White,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,39,Single,Degree,USA,White,Ohio,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,53,Married,Degree,USA,White,Missouri,"$5,200 to $10,400",Midlands & East Anglia,Yes,15,15,Both/Mainly Hand-Rolled
+Female,71,Married,GCSE/O Level,USA,White,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,29,Single,Higher/Sub Degree,USA,White,Chicago,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,66,Married,No Qualification,USA,White,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,75,Married,Other/Sub Degree,USA,White,Missouri,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,45,Divorced,Degree,USA,White,Newyork,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,69,Married,No Qualification,USA,White,Chicago,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,49,Divorced,Degree,USA,White,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,63,Married,No Qualification,USA,White,Missouri,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,61,Married,Other/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,55,Married,Higher/Sub Degree,USA,White,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,57,Married,Higher/Sub Degree,USA,White,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,60,Married,Degree,USA,White,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,58,Married,GCSE/O Level,USA,White,Newyork,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,76,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,Yes,10,6,Packets
+Male,29,Single,Higher/Sub Degree,USA,White,Ohio,"$20,800 to $28,600",Midlands & East Anglia,Yes,20,20,Packets
+Female,50,Married,GCSE/O Level,USA,White,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,40,Married,GCSE/O Level,USA,White,Newyork,Refused,Midlands & East Anglia,No,NA,NA,
+Female,34,Married,Higher/Sub Degree,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,77,Widowed,No Qualification,Irish,White,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,47,Married,Degree,USA,White,Missouri,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,68,Married,No Qualification,USA,White,Newyork,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,31,Married,Higher/Sub Degree,USA,White,Chicago,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Male,41,Married,Degree,USA,Asian,Ohio,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,55,Married,Higher/Sub Degree,USA,White,Missouri,"$5,200 to $10,400",Midlands & East Anglia,Yes,25,15,Packets
+Male,66,Married,A Levels,USA,Asian,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,80,Married,No Qualification,USA,White,Chicago,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,45,Married,Degree,USA,Asian,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,63,Married,Degree,USA,White,Missouri,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Male,62,Married,Degree,Scottish,White,Newyork,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,49,Married,No Qualification,USA,White,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,33,Married,ONC/BTEC,USA,White,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,16,Single,GCSE/O Level,USA,White,Missouri,Refused,Midlands & East Anglia,No,NA,NA,
+Male,58,Married,Degree,USA,White,Newyork,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,33,Separated,ONC/BTEC,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,65,Married,Degree,USA,White,Ohio,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,39,Single,Degree,Irish,White,Missouri,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,57,Married,Higher/Sub Degree,USA,White,Newyork,"$15,600 to $20,800",Midlands & East Anglia,Yes,6,4,Packets
+Female,31,Married,A Levels,USA,White,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,79,Married,No Qualification,USA,White,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,16,Single,GCSE/CSE,USA,White,Missouri,"Under $2,600",Midlands & East Anglia,Yes,2,2,Packets
+Female,54,Married,No Qualification,USA,White,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,37,Divorced,GCSE/O Level,USA,White,Chicago,"$10,400 to $15,600",Midlands & East Anglia,Yes,12,12,Packets
+Female,87,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,32,Single,Degree,USA,White,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,72,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,20,Married,GCSE/O Level,USA,Mixed,Chicago,"$10,400 to $15,600",Midlands & East Anglia,Yes,30,15,Hand-Rolled
+Male,77,Married,No Qualification,USA,White,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,63,Married,No Qualification,USA,White,Missouri,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,56,Married,No Qualification,USA,White,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,34,Single,GCSE/O Level,USA,White,Chicago,"$15,600 to $20,800",Midlands & East Anglia,Yes,10,5,Hand-Rolled
+Female,24,Married,A Levels,USA,White,Ohio,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,42,Single,GCSE/O Level,USA,White,Missouri,"$15,600 to $20,800",Midlands & East Anglia,Yes,10,3,Hand-Rolled
+Male,71,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,48,Married,GCSE/O Level,USA,White,Chicago,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,38,Separated,ONC/BTEC,USA,White,Ohio,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,55,Divorced,A Levels,USA,White,Missouri,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,50,Married,GCSE/CSE,USA,White,Newyork,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,30,Single,ONC/BTEC,USA,White,Chicago,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,72,Married,No Qualification,USA,White,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,59,Married,Other/Sub Degree,USA,White,Missouri,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,68,Married,Higher/Sub Degree,USA,White,Newyork,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,48,Married,No Qualification,USA,White,Chicago,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,42,Widowed,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,72,Divorced,Other/Sub Degree,USA,White,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,54,Married,Other/Sub Degree,USA,White,Newyork,Refused,Midlands & East Anglia,No,NA,NA,
+Female,53,Divorced,GCSE/O Level,USA,White,Chicago,Unknown,Midlands & East Anglia,Yes,7,12,Packets
+Female,86,Married,No Qualification,USA,White,Ohio,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,57,Divorced,No Qualification,USA,White,Missouri,"$5,200 to $10,400",Midlands & East Anglia,Yes,20,15,Both/Mainly Packets
+Female,30,Single,Degree,USA,Chinese,Newyork,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,35,Single,No Qualification,Other,Chinese,Chicago,Refused,Midlands & East Anglia,Yes,20,20,Hand-Rolled
+Female,25,Separated,GCSE/O Level,USA,Chinese,Ohio,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,20,Packets
+Male,67,Married,Other/Sub Degree,USA,Chinese,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,33,Divorced,GCSE/O Level,USA,Chinese,Newyork,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,51,Married,No Qualification,USA,Chinese,Chicago,"$5,200 to $10,400",Midlands & East Anglia,Yes,15,3,Packets
+Female,54,Married,No Qualification,USA,Chinese,Ohio,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,86,Married,No Qualification,USA,Chinese,Missouri,Unknown,Midlands & East Anglia,No,NA,NA,
+Female,69,Married,No Qualification,USA,Chinese,Newyork,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,23,Married,Higher/Sub Degree,USA,Chinese,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,33,Single,Degree,USA,Chinese,Ohio,"$15,600 to $20,800",Midlands & East Anglia,Yes,18,12,Packets
+Male,79,Married,No Qualification,USA,Chinese,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,21,Single,A Levels,USA,Chinese,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,37,Divorced,GCSE/O Level,USA,Chinese,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,40,Married,GCSE/O Level,USA,Chinese,Ohio,"$5,200 to $10,400",Midlands & East Anglia,Yes,20,20,Both/Mainly Packets
+Male,79,Single,No Qualification,USA,White,Missouri,Refused,Midlands & East Anglia,No,NA,NA,
+Female,34,Divorced,Higher/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,Yes,10,10,Hand-Rolled
+Male,28,Single,GCSE/O Level,USA,White,Chicago,"$10,400 to $15,600",Midlands & East Anglia,Yes,10,10,Hand-Rolled
+Female,44,Married,No Qualification,USA,White,Ohio,"$2,600 to $5,200",Midlands & East Anglia,Yes,15,10,Packets
+Female,64,Married,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,51,Separated,No Qualification,USA,White,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,21,Single,ONC/BTEC,USA,White,Chicago,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,10,Packets
+Male,40,Single,GCSE/O Level,USA,White,Ohio,"$2,600 to $5,200",Midlands & East Anglia,Yes,1,2,Hand-Rolled
+Female,42,Single,GCSE/O Level,USA,White,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,47,Divorced,No Qualification,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,73,Widowed,Other/Sub Degree,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,18,Single,Higher/Sub Degree,USA,White,Ohio,"$2,600 to $5,200",Midlands & East Anglia,Yes,15,15,Packets
+Male,24,Single,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,69,Widowed,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,61,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,83,Single,No Qualification,Refused,Refused,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Female,80,Widowed,No Qualification,USA,White,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,80,Married,No Qualification,USA,Asian,Newyork,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,26,Single,GCSE/O Level,USA,Asian,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,34,Separated,GCSE/O Level,USA,Asian,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,34,Married,Degree,USA,Asian,Missouri,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,39,Single,GCSE/O Level,USA,Asian,Newyork,"$15,600 to $20,800",Midlands & East Anglia,Yes,10,7,Hand-Rolled
+Male,33,Married,Other/Sub Degree,USA,Asian,Chicago,"$5,200 to $10,400",Midlands & East Anglia,Yes,40,20,Packets
+Male,36,Married,GCSE/O Level,USA,Asian,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,39,Divorced,No Qualification,USA,Asian,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,35,Married,GCSE/O Level,USA,Asian,Newyork,"$15,600 to $20,800",Midlands & East Anglia,Yes,10,7,Hand-Rolled
+Female,89,Widowed,No Qualification,USA,Asian,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,23,Married,Degree,USA,Asian,Ohio,"$5,200 to $10,400",Midlands & East Anglia,Yes,10,10,Packets
+Female,32,Divorced,GCSE/O Level,USA,Asian,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,32,Married,No Qualification,Other,Asian,Newyork,"$5,200 to $10,400",Midlands & East Anglia,Yes,10,6,Packets
+Male,35,Married,GCSE/O Level,USA,Asian,Chicago,"$2,600 to $5,200",Midlands & East Anglia,Yes,5,5,Packets
+Female,18,Single,A Levels,USA,Asian,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,44,Divorced,Degree,USA,Asian,Missouri,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,75,Married,GCSE/CSE,Other,Asian,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,65,Married,GCSE/O Level,USA,Asian,Chicago,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,54,Married,ONC/BTEC,USA,Asian,Ohio,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,32,Married,GCSE/O Level,USA,Asian,Missouri,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,57,Married,Higher/Sub Degree,USA,Asian,Newyork,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,50,Married,Other/Sub Degree,USA,Asian,Chicago,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,15,Packets
+Female,58,Married,Other/Sub Degree,USA,White,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,30,Married,Degree,USA,White,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,57,Married,Higher/Sub Degree,USA,White,Newyork,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,60,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",Midlands & East Anglia,Yes,15,15,Hand-Rolled
+Female,78,Separated,No Qualification,USA,White,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,44,Married,No Qualification,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,20,Packets
+Male,32,Single,ONC/BTEC,USA,White,Newyork,"Above $36,400",Midlands & East Anglia,Yes,20,10,Packets
+Female,56,Separated,Higher/Sub Degree,USA,White,Chicago,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Male,51,Married,Other/Sub Degree,Scottish,White,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,71,Married,Other/Sub Degree,USA,Black,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,74,Widowed,Other/Sub Degree,USA,White,Newyork,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,56,Single,Degree,USA,White,Chicago,"$15,600 to $20,800",Midlands & East Anglia,Yes,35,25,Packets
+Female,80,Widowed,No Qualification,USA,White,Ohio,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,51,Married,ONC/BTEC,USA,White,Missouri,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,53,Widowed,GCSE/O Level,USA,White,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,80,Married,No Qualification,USA,White,Chicago,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,42,Married,Degree,USA,White,Ohio,"$20,800 to $28,600",Midlands & East Anglia,Yes,0,2,Packets
+Female,82,Widowed,Other/Sub Degree,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,58,Married,A Levels,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,78,Married,Degree,USA,White,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,61,Married,No Qualification,USA,White,Ohio,"$20,800 to $28,600",Midlands & East Anglia,Yes,20,20,Packets
+Female,49,Single,No Qualification,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,15,Packets
+Female,51,Divorced,GCSE/CSE,USA,White,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,48,Married,Other/Sub Degree,USA,White,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,37,Married,GCSE/O Level,USA,White,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,51,Married,GCSE/CSE,USA,Asian,Missouri,"$10,400 to $15,600",Midlands & East Anglia,Yes,5,5,Packets
+Male,55,Married,GCSE/O Level,USA,White,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,48,Married,No Qualification,USA,White,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,82,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,56,Married,No Qualification,USA,White,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,71,Widowed,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,30,Single,No Qualification,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,73,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,35,Married,GCSE/O Level,USA,White,Missouri,"Under $2,600",Midlands & East Anglia,Yes,10,8,Packets
+Male,79,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,75,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,Yes,2,1,Packets
+Female,49,Married,ONC/BTEC,USA,White,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,74,Married,No Qualification,USA,White,Missouri,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,33,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,81,Widowed,No Qualification,USA,White,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,63,Married,No Qualification,USA,White,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,78,Widowed,No Qualification,USA,White,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,68,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,Yes,18,18,Packets
+Male,73,Married,No Qualification,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,34,Married,A Levels,USA,White,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,36,Divorced,No Qualification,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,Yes,15,15,Hand-Rolled
+Female,16,Single,No Qualification,USA,White,Newyork,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,72,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,66,Married,Higher/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,41,Married,No Qualification,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,49,Married,Other/Sub Degree,USA,White,Newyork,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,15,Packets
+Male,42,Single,No Qualification,USA,White,Chicago,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,54,Separated,GCSE/CSE,USA,White,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,70,Married,Higher/Sub Degree,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,29,Married,GCSE/CSE,USA,Asian,Newyork,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,43,Married,No Qualification,USA,Asian,Chicago,Refused,Midlands & East Anglia,Yes,5,10,Packets
+Female,19,Single,A Levels,Refused,Chinese,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Male,44,Married,Higher/Sub Degree,USA,White,Missouri,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Male,27,Single,Degree,USA,White,Newyork,"$20,800 to $28,600",Midlands & East Anglia,Yes,10,10,Packets
+Male,68,Married,No Qualification,USA,White,Chicago,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,80,Widowed,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,85,Widowed,No Qualification,USA,Mexican,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,65,Married,No Qualification,USA,Mexican,Newyork,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,88,Widowed,No Qualification,USA,Mexican,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,76,Widowed,No Qualification,USA,Mexican,Ohio,Unknown,Midlands & East Anglia,No,NA,NA,
+Male,81,Married,GCSE/O Level,USA,Mexican,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,44,Separated,Degree,USA,Mexican,Newyork,"$5,200 to $10,400",Midlands & East Anglia,Yes,1,1,Packets
+Female,34,Married,Other/Sub Degree,USA,Mexican,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,55,Married,Higher/Sub Degree,USA,Mexican,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,77,Widowed,No Qualification,USA,Mexican,Missouri,Refused,Midlands & East Anglia,No,NA,NA,
+Female,33,Married,Degree,Refused,Mexican,Newyork,Refused,Midlands & East Anglia,No,NA,NA,
+Male,82,Single,No Qualification,USA,Mexican,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,77,Widowed,Higher/Sub Degree,USA,Mexican,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,19,Single,GCSE/O Level,USA,Mexican,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,70,Widowed,Other/Sub Degree,USA,Mexican,Newyork,Refused,Midlands & East Anglia,No,NA,NA,
+Female,74,Widowed,No Qualification,USA,Mexican,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,57,Married,Other/Sub Degree,USA,Mexican,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,44,Divorced,GCSE/CSE,USA,Mexican,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,38,Single,Degree,USA,Mexican,Newyork,Refused,Midlands & East Anglia,No,NA,NA,
+Male,43,Married,Degree,USA,Mexican,Chicago,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,57,Separated,No Qualification,Welsh,Mexican,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,54,Divorced,GCSE/O Level,Unknown,Mexican,Missouri,"$2,600 to $5,200",Midlands & East Anglia,Yes,20,20,Both/Mainly Packets
+Male,17,Single,GCSE/O Level,USA,White,Newyork,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,60,Married,No Qualification,USA,White,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,50,Married,No Qualification,USA,White,Ohio,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,24,Single,GCSE/CSE,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,Yes,8,2,Packets
+Female,78,Widowed,No Qualification,USA,White,Newyork,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,60,Single,Other/Sub Degree,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,85,Widowed,Other/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",Midlands & East Anglia,Yes,6,6,Packets
+Male,59,Married,No Qualification,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,65,Married,Degree,USA,White,Newyork,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,55,Married,Other/Sub Degree,USA,White,Chicago,Refused,Midlands & East Anglia,No,NA,NA,
+Female,32,Married,ONC/BTEC,USA,White,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,41,Single,Higher/Sub Degree,USA,Mixed,Missouri,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,31,Single,Higher/Sub Degree,USA,White,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,45,Married,No Qualification,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,Yes,20,20,Both/Mainly Packets
+Female,30,Single,Degree,USA,White,Ohio,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,19,Single,A Levels,USA,Chinese,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,76,Widowed,GCSE/O Level,USA,Chinese,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,73,Married,No Qualification,USA,Chinese,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,19,Single,GCSE/O Level,USA,Chinese,Ohio,Refused,Midlands & East Anglia,Yes,5,2,Packets
+Male,34,Married,Degree,USA,Chinese,Missouri,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,59,Married,No Qualification,USA,Chinese,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,22,Single,GCSE/CSE,USA,Chinese,Chicago,"$5,200 to $10,400",Midlands & East Anglia,Yes,40,10,Packets
+Female,27,Single,Degree,USA,Chinese,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,45,Married,A Levels,USA,Chinese,Missouri,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,69,Widowed,Other/Sub Degree,Other,Chinese,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,76,Married,Degree,Other,Chinese,Chicago,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,54,Married,Degree,USA,Chinese,Ohio,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Male,72,Married,Degree,USA,Chinese,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,89,Widowed,No Qualification,USA,Chinese,Newyork,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,78,Widowed,No Qualification,Refused,Chinese,Chicago,Refused,Midlands & East Anglia,Yes,6,6,Packets
+Female,60,Married,GCSE/O Level,USA,Chinese,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Female,39,Married,A Levels,USA,Chinese,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,28,Single,GCSE/O Level,USA,Chinese,Newyork,"$5,200 to $10,400",Midlands & East Anglia,Yes,5,5,Both/Mainly Packets
+Male,23,Single,GCSE/CSE,USA,Chinese,Chicago,"Under $2,600",Midlands & East Anglia,Yes,30,10,Both/Mainly Packets
+Male,26,Single,A Levels,USA,Chinese,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,52,Married,Other/Sub Degree,USA,Chinese,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,54,Married,Other/Sub Degree,USA,Chinese,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,20,Single,A Levels,USA,Chinese,Chicago,"$10,400 to $15,600",Midlands & East Anglia,Yes,10,10,Packets
+Female,59,Married,Other/Sub Degree,USA,Chinese,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Male,30,Married,ONC/BTEC,USA,Chinese,Missouri,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,41,Married,GCSE/O Level,Scottish,Chinese,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,26,Single,GCSE/O Level,USA,Chinese,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,27,Married,GCSE/O Level,Welsh,Chinese,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,49,Married,No Qualification,Refused,Chinese,Missouri,Refused,Midlands & East Anglia,Yes,20,20,Packets
+Male,29,Single,ONC/BTEC,USA,Chinese,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,36,Divorced,GCSE/O Level,USA,Chinese,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,43,Divorced,GCSE/CSE,USA,Chinese,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,29,Single,ONC/BTEC,USA,Chinese,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,34,Separated,GCSE/O Level,USA,Chinese,Newyork,"$5,200 to $10,400",Midlands & East Anglia,Yes,15,10,Packets
+Female,81,Married,No Qualification,Refused,Chinese,Chicago,Refused,Midlands & East Anglia,No,NA,NA,
+Female,30,Single,GCSE/O Level,USA,White,Ohio,"$10,400 to $15,600",Midlands & East Anglia,Yes,5,10,Hand-Rolled
+Male,25,Single,Degree,USA,White,Missouri,"$20,800 to $28,600",Midlands & East Anglia,Yes,20,20,Packets
+Male,59,Divorced,No Qualification,USA,White,Newyork,"$10,400 to $15,600",Midlands & East Anglia,Yes,35,35,Packets
+Female,44,Widowed,No Qualification,USA,Asian,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,64,Married,GCSE/O Level,Refused,Chinese,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Female,35,Married,A Levels,Refused,Chinese,Missouri,Refused,Midlands & East Anglia,No,NA,NA,
+Male,40,Single,GCSE/O Level,USA,White,Newyork,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,65,Single,A Levels,Other,Black,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,17,Single,GCSE/O Level,USA,Asian,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Male,72,Married,No Qualification,Other,Black,Missouri,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,29,Married,Degree,USA,Black,Newyork,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,39,Married,No Qualification,USA,Asian,Chicago,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Male,70,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,73,Married,No Qualification,USA,White,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,46,Single,GCSE/O Level,USA,White,Newyork,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,59,Married,ONC/BTEC,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,77,Widowed,No Qualification,USA,White,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,42,Married,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,20,Packets
+Male,41,Married,GCSE/O Level,USA,White,Newyork,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,49,Married,A Levels,USA,White,Chicago,"$15,600 to $20,800",Midlands & East Anglia,Yes,20,15,Packets
+Male,67,Single,Degree,USA,White,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,65,Single,No Qualification,USA,Asian,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,40,Single,No Qualification,USA,Asian,Newyork,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,49,Separated,GCSE/O Level,USA,Asian,Chicago,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Male,34,Single,GCSE/CSE,USA,Asian,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,64,Married,No Qualification,USA,Asian,Missouri,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,44,Widowed,Degree,Other,Asian,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,72,Widowed,No Qualification,USA,Asian,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,32,Married,A Levels,USA,Asian,Ohio,"$20,800 to $28,600",Midlands & East Anglia,Yes,20,20,Packets
+Female,53,Married,No Qualification,USA,Asian,Missouri,Refused,Midlands & East Anglia,No,NA,NA,
+Female,50,Married,A Levels,USA,Asian,Newyork,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,63,Divorced,No Qualification,USA,Asian,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,57,Married,Degree,USA,Asian,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,40,Married,Degree,USA,Asian,Missouri,Refused,Midlands & East Anglia,No,NA,NA,
+Female,88,Divorced,Other/Sub Degree,USA,Asian,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,57,Married,Degree,USA,Asian,Chicago,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,54,Married,Degree,USA,Asian,Ohio,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,58,Widowed,No Qualification,USA,Asian,Missouri,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,77,Divorced,Higher/Sub Degree,USA,Asian,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,45,Divorced,GCSE/CSE,Other,Asian,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,31,Single,GCSE/O Level,USA,Asian,Ohio,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,31,Married,ONC/BTEC,USA,Asian,Missouri,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,80,Widowed,Degree,USA,Asian,Newyork,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Male,67,Widowed,Degree,USA,Asian,Chicago,"$20,800 to $28,600",Midlands & East Anglia,Yes,30,30,Packets
+Male,40,Single,GCSE/O Level,USA,Asian,Ohio,Refused,Midlands & East Anglia,Yes,20,10,Packets
+Female,70,Widowed,No Qualification,USA,Asian,Missouri,Refused,Midlands & East Anglia,No,NA,NA,
+Female,28,Single,GCSE/CSE,USA,Asian,Newyork,"Under $2,600",Midlands & East Anglia,Yes,30,10,Packets
+Male,30,Married,GCSE/CSE,Other,Asian,Chicago,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,70,Divorced,Other/Sub Degree,USA,Asian,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Male,57,Married,Degree,USA,Asian,Missouri,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,76,Widowed,GCSE/O Level,USA,Asian,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,89,Widowed,No Qualification,USA,Asian,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,81,Married,No Qualification,USA,Asian,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,30,Single,ONC/BTEC,USA,Asian,Missouri,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,39,Single,Higher/Sub Degree,USA,Asian,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,73,Married,No Qualification,USA,Asian,Chicago,"Under $2,600",Midlands & East Anglia,Yes,15,15,Packets
+Female,39,Married,A Levels,Other,Asian,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Female,76,Widowed,No Qualification,USA,Asian,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,62,Single,No Qualification,USA,Asian,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,66,Married,A Levels,USA,Asian,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,53,Separated,Degree,USA,Asian,Ohio,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Male,60,Married,Degree,USA,White,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,36,Married,GCSE/O Level,USA,White,Newyork,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,40,Single,GCSE/CSE,USA,White,Chicago,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,57,Separated,No Qualification,USA,White,Ohio,"$28,600 to $36,400",Midlands & East Anglia,Yes,15,15,Packets
+Male,16,Single,No Qualification,USA,White,Missouri,"Under $2,600",Midlands & East Anglia,Yes,25,20,Hand-Rolled
+Female,25,Single,GCSE/O Level,USA,White,Newyork,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,58,Single,No Qualification,USA,White,Chicago,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,49,Divorced,No Qualification,USA,White,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,48,Single,Degree,USA,White,Missouri,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,76,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,88,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,35,Married,A Levels,USA,Chinese,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,43,Married,Degree,USA,Black,Missouri,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,69,Widowed,No Qualification,USA,White,Newyork,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,64,Widowed,No Qualification,USA,Japanese,Chicago,"$5,200 to $10,400",Midlands & East Anglia,Yes,20,20,Packets
+Female,40,Divorced,GCSE/O Level,USA,Japanese,Ohio,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,20,Packets
+Male,78,Married,Degree,USA,Japanese,Missouri,Refused,Midlands & East Anglia,No,NA,NA,
+Male,58,Married,Degree,USA,Japanese,Newyork,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,34,Married,Degree,USA,Japanese,Chicago,"Under $2,600",Midlands & East Anglia,Yes,3,0,Packets
+Female,46,Married,Degree,USA,Japanese,Ohio,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,65,Married,No Qualification,USA,Japanese,Missouri,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,34,Single,GCSE/O Level,USA,Japanese,Newyork,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,10,Both/Mainly Packets
+Female,40,Separated,GCSE/CSE,USA,Japanese,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,79,Married,No Qualification,USA,Japanese,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Male,36,Married,No Qualification,USA,Japanese,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,39,Married,No Qualification,Other,Japanese,Newyork,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,24,Married,GCSE/CSE,USA,Japanese,Chicago,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,28,Single,Other/Sub Degree,USA,Japanese,Ohio,"$2,600 to $5,200",Midlands & East Anglia,Yes,20,10,Both/Mainly Packets
+Female,26,Single,A Levels,USA,Japanese,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,45,Widowed,GCSE/CSE,USA,Japanese,Newyork,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,24,Single,GCSE/O Level,USA,Japanese,Chicago,"$5,200 to $10,400",Midlands & East Anglia,Yes,18,10,Packets
+Male,77,Divorced,No Qualification,USA,Japanese,Ohio,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,78,Married,Higher/Sub Degree,Welsh,Japanese,Missouri,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Male,25,Single,Degree,Scottish,Japanese,Newyork,Refused,Midlands & East Anglia,No,NA,NA,
+Male,36,Married,GCSE/CSE,USA,Japanese,Chicago,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,17,Single,GCSE/O Level,USA,Japanese,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Male,55,Married,GCSE/O Level,USA,Japanese,Missouri,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,70,Married,Other/Sub Degree,USA,Japanese,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,43,Single,GCSE/O Level,USA,Japanese,Chicago,"$20,800 to $28,600",Midlands & East Anglia,Yes,15,8,Hand-Rolled
+Female,59,Divorced,No Qualification,USA,Japanese,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,32,Married,Other/Sub Degree,USA,Japanese,Missouri,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,34,Married,Degree,USA,Japanese,Newyork,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,58,Single,Degree,USA,Japanese,Chicago,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Male,44,Married,GCSE/O Level,USA,Japanese,Ohio,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Male,64,Married,No Qualification,USA,Japanese,Missouri,Refused,Midlands & East Anglia,Yes,0,0,Packets
+Female,34,Married,GCSE/CSE,USA,Japanese,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,32,Single,GCSE/CSE,USA,White,Chicago,Refused,Midlands & East Anglia,No,NA,NA,
+Male,38,Married,Degree,USA,White,Ohio,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Male,28,Single,GCSE/CSE,USA,White,Missouri,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Male,42,Married,GCSE/CSE,USA,White,Newyork,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,34,Single,Degree,Other,White,Chicago,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,23,Single,ONC/BTEC,USA,White,Ohio,"$5,200 to $10,400",Midlands & East Anglia,Yes,15,5,Both/Mainly Packets
+Male,55,Separated,Degree,USA,White,Missouri,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,65,Married,Other/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,62,Married,GCSE/O Level,USA,White,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,66,Married,Higher/Sub Degree,USA,White,Ohio,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Female,73,Married,No Qualification,USA,White,Missouri,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,34,Single,Other/Sub Degree,USA,White,Newyork,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,33,Married,Degree,USA,White,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,76,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,55,Married,No Qualification,USA,White,Missouri,"$2,600 to $5,200",Midlands & East Anglia,Yes,1,0,Packets
+Female,39,Married,Degree,USA,White,Newyork,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,26,Single,Degree,USA,Asian,Chicago,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,61,Married,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",Midlands & East Anglia,Yes,25,25,Packets
+Female,78,Married,Other/Sub Degree,USA,japanese,Missouri,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,42,Married,Degree,USA,japanese,Newyork,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,72,Married,No Qualification,USA,japanese,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,62,Widowed,No Qualification,USA,japanese,Ohio,"$20,800 to $28,600",Midlands & East Anglia,Yes,30,30,Both/Mainly Packets
+Female,46,Married,GCSE/O Level,USA,japanese,Missouri,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,20,Packets
+Male,24,Single,A Levels,USA,japanese,Newyork,"$15,600 to $20,800",Midlands & East Anglia,No,NA,NA,
+Male,27,Single,Degree,USA,japanese,Chicago,"$10,400 to $15,600",Midlands & East Anglia,Yes,6,4,Both/Mainly Packets
+Female,64,Married,GCSE/O Level,USA,japanese,Ohio,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,86,Married,Degree,USA,japanese,Missouri,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,46,Married,Degree,USA,japanese,Newyork,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,20,Single,ONC/BTEC,USA,japanese,Chicago,"$10,400 to $15,600",Midlands & East Anglia,Yes,20,15,Both/Mainly Packets
+Male,35,Divorced,Higher/Sub Degree,Other,japanese,Ohio,"$28,600 to $36,400",Midlands & East Anglia,No,NA,NA,
+Female,46,Married,Higher/Sub Degree,Irish,japanese,Missouri,"$28,600 to $36,400",Midlands & East Anglia,Yes,30,30,Packets
+Female,39,Married,Higher/Sub Degree,Irish,japanese,Newyork,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,28,Married,GCSE/O Level,USA,japanese,Chicago,"Above $36,400",Midlands & East Anglia,No,NA,NA,
+Female,33,Married,Higher/Sub Degree,Refused,japanese,Ohio,Refused,Midlands & East Anglia,No,NA,NA,
+Female,39,Divorced,GCSE/O Level,USA,japanese,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,45,Divorced,GCSE/CSE,USA,japanese,Newyork,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,37,Separated,Higher/Sub Degree,USA,japanese,Chicago,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Male,29,Married,ONC/BTEC,USA,japanese,Ohio,"$15,600 to $20,800",Midlands & East Anglia,Yes,10,5,Packets
+Male,76,Widowed,No Qualification,USA,japanese,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,26,Married,Degree,USA,japanese,Newyork,"$20,800 to $28,600",Midlands & East Anglia,No,NA,NA,
+Female,47,Divorced,Degree,USA,japanese,Chicago,"$20,800 to $28,600",Midlands & East Anglia,Yes,20,10,Packets
+Male,72,Divorced,No Qualification,USA,japanese,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,72,Married,No Qualification,USA,japanese,Missouri,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,65,Widowed,No Qualification,USA,japanese,Newyork,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Female,69,Married,No Qualification,USA,japanese,Chicago,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Female,61,Married,A Levels,USA,japanese,Ohio,Unknown,Midlands & East Anglia,No,NA,NA,
+Female,63,Married,No Qualification,USA,japanese,Missouri,Refused,Midlands & East Anglia,No,NA,NA,
+Male,16,Single,No Qualification,USA,japanese,Newyork,Refused,Midlands & East Anglia,No,NA,NA,
+Male,61,Divorced,No Qualification,USA,japanese,Chicago,"$2,600 to $5,200",Midlands & East Anglia,No,NA,NA,
+Male,18,Single,GCSE/O Level,USA,japanese,Ohio,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,76,Single,No Qualification,USA,White,Missouri,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,65,Married,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Female,52,Married,No Qualification,USA,White,Chicago,"$5,200 to $10,400",Midlands & East Anglia,No,NA,NA,
+Male,64,Widowed,No Qualification,USA,White,Ohio,"$10,400 to $15,600",Midlands & East Anglia,No,NA,NA,
+Female,42,Married,GCSE/CSE,USA,White,Missouri,"Under $2,600",Midlands & East Anglia,No,NA,NA,
+Male,40,Married,Degree,Other,White,Newyork,"Above $36,400",London,No,NA,NA,
+Female,28,Married,Other/Sub Degree,USA,Mixed,Chicago,"$20,800 to $28,600",London,No,NA,NA,
+Male,40,Married,Degree,Welsh,White,Ohio,"Above $36,400",London,No,NA,NA,
+Male,48,Married,GCSE/O Level,USA,White,Missouri,"$28,600 to $36,400",London,No,NA,NA,
+Male,35,Separated,Degree,Other,White,Newyork,"$20,800 to $28,600",London,No,NA,NA,
+Female,30,Single,Degree,USA,Black,Chicago,"$5,200 to $10,400",London,Yes,3,3,Packets
+Female,26,Single,Degree,USA,White,Ohio,"$5,200 to $10,400",London,No,NA,NA,
+Male,81,Widowed,No Qualification,USA,White,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Male,77,Divorced,A Levels,USA,White,Newyork,"$10,400 to $15,600",London,No,NA,NA,
+Female,25,Single,Degree,USA,White,Chicago,"$15,600 to $20,800",London,No,NA,NA,
+Female,66,Married,No Qualification,USA,Asian,Ohio,"Under $2,600",London,No,NA,NA,
+Male,18,Single,A Levels,USA,White,Missouri,"$5,200 to $10,400",London,Yes,15,15,Packets
+Male,43,Married,GCSE/O Level,USA,Black,Newyork,"$15,600 to $20,800",London,No,NA,NA,
+Male,49,Divorced,Other/Sub Degree,USA,White,Chicago,"$5,200 to $10,400",London,Yes,20,6,Both/Mainly Packets
+Male,29,Married,Degree,USA,White,Ohio,"Above $36,400",London,No,NA,NA,
+Female,20,Single,No Qualification,USA,White,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Female,75,Widowed,Other/Sub Degree,USA,White,Newyork,"Under $2,600",London,Yes,25,25,Packets
+Male,40,Married,No Qualification,Other,Chinese,Chicago,"$20,800 to $28,600",London,No,NA,NA,
+Female,64,Single,Higher/Sub Degree,Irish,White,Ohio,"$5,200 to $10,400",London,No,NA,NA,
+Male,66,Single,Degree,USA,Chinese,Missouri,Refused,London,No,NA,NA,
+Female,34,Single,Degree,USA,White,Newyork,"$5,200 to $10,400",London,No,NA,NA,
+Female,76,Divorced,Degree,USA,White,Chicago,"$28,600 to $36,400",London,No,NA,NA,
+Male,30,Married,Degree,USA,White,Ohio,"Above $36,400",London,Yes,1,0,Packets
+Male,55,Married,Degree,Other,Mixed,Missouri,"Above $36,400",London,No,NA,NA,
+Female,49,Single,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",London,No,NA,NA,
+Male,38,Separated,Degree,USA,Chinese,Chicago,"$10,400 to $15,600",London,No,NA,NA,
+Male,23,Single,A Levels,Other,Refused,Ohio,Refused,London,Yes,10,10,Packets
+Male,77,Married,Degree,Welsh,White,Missouri,"$15,600 to $20,800",London,No,NA,NA,
+Male,46,Single,Degree,Other,White,Newyork,"$10,400 to $15,600",London,Yes,8,8,Hand-Rolled
+Female,26,Separated,Higher/Sub Degree,USA,White,Chicago,"Under $2,600",London,No,NA,NA,
+Female,26,Single,Degree,Other,White,Ohio,"$28,600 to $36,400",London,Yes,10,8,Packets
+Male,45,Single,Degree,Irish,White,Missouri,"Above $36,400",London,Yes,7,2,Packets
+Female,45,Single,No Qualification,Other,Black,Newyork,"$2,600 to $5,200",London,No,NA,NA,
+Female,61,Married,No Qualification,USA,White,Chicago,Refused,London,No,NA,NA,
+Female,47,Married,GCSE/O Level,USA,White,Ohio,"$5,200 to $10,400",London,No,NA,NA,
+Female,75,Widowed,Other/Sub Degree,USA,White,Missouri,"$10,400 to $15,600",London,Yes,10,10,Packets
+Female,36,Divorced,No Qualification,USA,White,Newyork,"$2,600 to $5,200",London,Yes,30,20,Packets
+Male,26,Single,Degree,USA,Chinese,Chicago,"$2,600 to $5,200",London,No,NA,NA,
+Male,71,Widowed,No Qualification,USA,White,Ohio,"$2,600 to $5,200",London,Yes,25,25,Packets
+Male,69,Married,No Qualification,USA,White,Missouri,"$5,200 to $10,400",London,Yes,10,10,Hand-Rolled
+Male,38,Single,A Levels,Irish,White,Newyork,"$28,600 to $36,400",London,Yes,10,6,Hand-Rolled
+Female,21,Single,GCSE/O Level,USA,Black,Chicago,Refused,London,No,NA,NA,
+Male,26,Single,No Qualification,USA,Chinese,Ohio,"$10,400 to $15,600",London,No,NA,NA,
+Female,83,Widowed,No Qualification,USA,White,Missouri,Unknown,London,No,NA,NA,
+Female,56,Divorced,No Qualification,Other,White,Newyork,"$5,200 to $10,400",London,No,NA,NA,
+Male,34,Single,Degree,USA,White,Chicago,"Above $36,400",London,Yes,20,20,Packets
+Female,66,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",London,No,NA,NA,
+Female,32,Single,GCSE/O Level,USA,White,Missouri,"$5,200 to $10,400",London,Yes,3,3,Hand-Rolled
+Female,77,Single,No Qualification,USA,White,Newyork,"$5,200 to $10,400",London,No,NA,NA,
+Female,70,Married,No Qualification,USA,White,Chicago,"Under $2,600",London,No,NA,NA,
+Male,24,Single,GCSE/O Level,USA,White,Ohio,"Under $2,600",London,Yes,10,10,Both/Mainly Packets
+Female,81,Widowed,No Qualification,USA,White,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Male,37,Separated,Other/Sub Degree,Other,White,Newyork,"$2,600 to $5,200",London,No,NA,NA,
+Male,90,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",London,No,NA,NA,
+Female,29,Single,GCSE/O Level,Other,Black,Ohio,"$5,200 to $10,400",London,Yes,6,0,Hand-Rolled
+Female,24,Single,A Levels,Other,White,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Male,81,Widowed,No Qualification,USA,White,Newyork,"$2,600 to $5,200",London,No,NA,NA,
+Female,38,Separated,ONC/BTEC,Other,Black,Chicago,"$5,200 to $10,400",London,No,NA,NA,
+Male,22,Single,GCSE/O Level,Irish,White,Ohio,"$20,800 to $28,600",London,Yes,0,7,Packets
+Male,31,Married,GCSE/CSE,USA,Asian,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Female,77,Widowed,No Qualification,Other,White,Newyork,"$2,600 to $5,200",London,No,NA,NA,
+Female,61,Divorced,No Qualification,Other,White,Chicago,"$10,400 to $15,600",London,Yes,5,4,Packets
+Male,54,Single,No Qualification,USA,White,Ohio,"$2,600 to $5,200",London,No,NA,NA,
+Female,72,Widowed,No Qualification,USA,White,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Male,66,Single,No Qualification,USA,White,Newyork,"$5,200 to $10,400",London,Yes,30,30,Packets
+Male,47,Single,ONC/BTEC,USA,White,Chicago,"$20,800 to $28,600",London,No,NA,NA,
+Female,76,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",London,No,NA,NA,
+Male,41,Married,A Levels,USA,White,Missouri,"$20,800 to $28,600",London,No,NA,NA,
+Female,80,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",London,No,NA,NA,
+Female,63,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",London,No,NA,NA,
+Male,29,Married,No Qualification,USA,White,Ohio,"$15,600 to $20,800",London,No,NA,NA,
+Female,40,Single,GCSE/O Level,Other,White,Missouri,"$15,600 to $20,800",London,No,NA,NA,
+Female,54,Married,No Qualification,USA,White,Newyork,"$10,400 to $15,600",London,No,NA,NA,
+Male,66,Married,Degree,USA,Asian,Chicago,"$10,400 to $15,600",London,Yes,5,55,Packets
+Male,69,Married,Other/Sub Degree,Other,Asian,Ohio,"$10,400 to $15,600",London,No,NA,NA,
+Male,51,Married,No Qualification,USA,White,Missouri,"$15,600 to $20,800",London,No,NA,NA,
+Male,70,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",London,No,NA,NA,
+Female,36,Married,GCSE/O Level,USA,White,Chicago,"$2,600 to $5,200",London,Yes,10,1,Packets
+Female,73,Married,No Qualification,USA,White,Ohio,"Under $2,600",London,No,NA,NA,
+Male,72,Married,Other/Sub Degree,USA,White,Missouri,"$2,600 to $5,200",London,No,NA,NA,
+Female,18,Single,GCSE/O Level,USA,White,Newyork,"Under $2,600",London,No,NA,NA,
+Female,57,Married,Other/Sub Degree,USA,White,Chicago,"Under $2,600",London,No,NA,NA,
+Male,21,Single,A Levels,USA,White,Ohio,Refused,London,No,NA,NA,
+Male,64,Married,Degree,USA,Asian,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Female,39,Married,GCSE/CSE,USA,White,Newyork,"$20,800 to $28,600",London,No,NA,NA,
+Female,37,Divorced,GCSE/CSE,USA,White,Chicago,"$5,200 to $10,400",London,No,NA,NA,
+Female,36,Married,GCSE/CSE,USA,White,Ohio,"Under $2,600",London,Yes,5,1,Packets
+Female,37,Married,Degree,USA,White,Missouri,"$10,400 to $15,600",London,No,NA,NA,
+Male,79,Married,No Qualification,USA,White,Newyork,"$2,600 to $5,200",London,No,NA,NA,
+Female,49,Married,GCSE/CSE,USA,White,Chicago,"$5,200 to $10,400",London,No,NA,NA,
+Female,30,Married,GCSE/O Level,USA,White,Ohio,"$5,200 to $10,400",London,No,NA,NA,
+Female,27,Single,Degree,Welsh,White,Missouri,"$20,800 to $28,600",London,No,NA,NA,
+Male,16,Single,GCSE/O Level,USA,White,Newyork,"Under $2,600",London,No,NA,NA,
+Male,40,Married,GCSE/O Level,USA,White,Chicago,"Above $36,400",London,No,NA,NA,
+Female,45,Separated,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",London,No,NA,NA,
+Female,78,Widowed,Other/Sub Degree,USA,White,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Female,59,Married,Other/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",London,No,NA,NA,
+Female,93,Widowed,Other/Sub Degree,USA,White,Chicago,"$5,200 to $10,400",London,Yes,0,3,Packets
+Female,33,Married,A Levels,USA,White,Ohio,"$10,400 to $15,600",London,No,NA,NA,
+Female,57,Divorced,No Qualification,USA,White,Missouri,"$15,600 to $20,800",London,No,NA,NA,
+Female,53,Single,No Qualification,USA,White,Newyork,"$2,600 to $5,200",London,Yes,4,4,Packets
+Female,54,Divorced,Higher/Sub Degree,USA,White,Chicago,"$2,600 to $5,200",London,No,NA,NA,
+Female,33,Married,A Levels,Irish,White,Ohio,"Above $36,400",London,No,NA,NA,
+Female,52,Single,Other/Sub Degree,Irish,White,Missouri,"$2,600 to $5,200",London,No,NA,NA,
+Male,31,Single,Higher/Sub Degree,USA,White,Newyork,"$10,400 to $15,600",London,No,NA,NA,
+Female,54,Married,Degree,USA,White,Chicago,"$28,600 to $36,400",London,No,NA,NA,
+Female,41,Married,Higher/Sub Degree,USA,White,Ohio,"$20,800 to $28,600",London,Yes,10,10,Packets
+Female,23,Single,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",London,No,NA,NA,
+Female,81,Widowed,GCSE/CSE,USA,White,Newyork,"Under $2,600",London,No,NA,NA,
+Female,17,Single,A Levels,USA,White,Chicago,Refused,London,No,NA,NA,
+Male,73,Married,No Qualification,USA,White,Ohio,"Above $36,400",London,No,NA,NA,
+Male,62,Married,No Qualification,USA,White,Missouri,"$20,800 to $28,600",London,No,NA,NA,
+Female,73,Married,Degree,Scottish,White,Newyork,"$10,400 to $15,600",London,Yes,16,16,Packets
+Male,22,Single,ONC/BTEC,USA,White,Chicago,"$20,800 to $28,600",London,Yes,15,15,Both/Mainly Packets
+Female,18,Single,A Levels,USA,White,Ohio,"Under $2,600",London,No,NA,NA,
+Female,86,Widowed,GCSE/O Level,Irish,White,Missouri,"$10,400 to $15,600",London,Yes,7,7,Packets
+Female,54,Married,Degree,USA,White,Newyork,"$20,800 to $28,600",London,Yes,20,20,Packets
+Female,55,Married,Degree,USA,White,Chicago,"$20,800 to $28,600",London,No,NA,NA,
+Female,22,Single,Degree,USA,Mixed,Ohio,"$20,800 to $28,600",London,Yes,15,15,Packets
+Female,30,Married,ONC/BTEC,USA,Asian,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Female,25,Single,Degree,Other,Black,Newyork,"$2,600 to $5,200",London,No,NA,NA,
+Female,54,Divorced,Other/Sub Degree,USA,Chinese,Chicago,"Under $2,600",London,Yes,15,10,Packets
+Male,36,Single,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",London,No,NA,NA,
+Female,40,Married,Other/Sub Degree,Other,White,Missouri,"Under $2,600",London,No,NA,NA,
+Female,51,Divorced,GCSE/O Level,USA,White,Newyork,"$2,600 to $5,200",London,Yes,10,2,Packets
+Male,44,Married,Degree,USA,White,Chicago,"$10,400 to $15,600",London,No,NA,NA,
+Female,26,Single,Degree,Other,White,Ohio,"Under $2,600",London,Yes,5,0,Packets
+Male,73,Married,ONC/BTEC,USA,White,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Female,36,Married,GCSE/O Level,USA,White,Newyork,"$15,600 to $20,800",London,No,NA,NA,
+Male,69,Widowed,No Qualification,Irish,White,Chicago,"$5,200 to $10,400",London,No,NA,NA,
+Female,41,Married,Degree,USA,White,Ohio,"$10,400 to $15,600",London,No,NA,NA,
+Male,40,Married,Degree,Other,White,Missouri,"Above $36,400",London,No,NA,NA,
+Male,82,Married,Other/Sub Degree,Other,White,Newyork,"$2,600 to $5,200",London,Yes,3,3,Packets
+Male,27,Single,Degree,USA,White,Chicago,"$15,600 to $20,800",London,No,NA,NA,
+Female,35,Single,Degree,USA,White,Ohio,"$20,800 to $28,600",London,No,NA,NA,
+Male,35,Married,Degree,USA,White,Missouri,"Above $36,400",London,No,NA,NA,
+Male,33,Married,Other/Sub Degree,Other,White,Newyork,"$28,600 to $36,400",London,No,NA,NA,
+Female,41,Divorced,No Qualification,USA,White,Chicago,"$2,600 to $5,200",London,Yes,20,20,Packets
+Female,26,Separated,Other/Sub Degree,USA,Black,Ohio,"$5,200 to $10,400",London,No,NA,NA,
+Female,55,Married,No Qualification,USA,White,Missouri,Refused,London,No,NA,NA,
+Male,18,Single,GCSE/O Level,Other,Black,Newyork,"Under $2,600",London,No,NA,NA,
+Female,68,Married,GCSE/O Level,USA,Black,Chicago,"$5,200 to $10,400",London,No,NA,NA,
+Female,43,Single,GCSE/O Level,Other,Black,Ohio,"$10,400 to $15,600",London,No,NA,NA,
+Male,58,Married,No Qualification,USA,Mixed,Missouri,"$20,800 to $28,600",London,No,NA,NA,
+Female,39,Married,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",London,No,NA,NA,
+Female,54,Separated,No Qualification,USA,White,Chicago,"$2,600 to $5,200",London,No,NA,NA,
+Female,62,Married,No Qualification,USA,White,Ohio,"$28,600 to $36,400",London,No,NA,NA,
+Female,40,Married,A Levels,USA,White,Missouri,"$10,400 to $15,600",London,Yes,2,0,Both/Mainly Packets
+Female,59,Single,GCSE/O Level,USA,White,Newyork,"$2,600 to $5,200",London,No,NA,NA,
+Female,57,Divorced,GCSE/O Level,USA,White,Chicago,"$20,800 to $28,600",London,No,NA,NA,
+Female,42,Single,GCSE/O Level,Other,Black,Ohio,"$5,200 to $10,400",London,Yes,25,10,Packets
+Female,48,Separated,GCSE/O Level,Scottish,White,Missouri,"$20,800 to $28,600",London,Yes,25,25,Packets
+Female,45,Divorced,GCSE/O Level,USA,Black,Newyork,"$20,800 to $28,600",London,Yes,15,10,Packets
+Female,24,Single,GCSE/CSE,USA,White,Chicago,"$2,600 to $5,200",London,No,NA,NA,
+Female,66,Widowed,GCSE/CSE,USA,Black,Ohio,"$10,400 to $15,600",London,No,NA,NA,
+Male,63,Single,Higher/Sub Degree,USA,White,Missouri,"$10,400 to $15,600",London,Yes,20,20,Packets
+Male,28,Single,GCSE/O Level,Refused,Refused,Newyork,Refused,London,No,NA,NA,
+Male,59,Divorced,No Qualification,USA,White,Chicago,"$20,800 to $28,600",London,No,NA,NA,
+Male,50,Married,Higher/Sub Degree,Other,Black,Ohio,"$20,800 to $28,600",London,No,NA,NA,
+Female,41,Separated,GCSE/CSE,USA,White,Missouri,"$10,400 to $15,600",London,No,NA,NA,
+Female,76,Single,No Qualification,USA,White,Newyork,"$5,200 to $10,400",London,No,NA,NA,
+Male,24,Single,ONC/BTEC,USA,White,Chicago,"$15,600 to $20,800",London,Yes,15,20,Packets
+Female,25,Single,Other/Sub Degree,USA,Chinese,Ohio,"$20,800 to $28,600",London,Yes,5,2,Packets
+Female,33,Widowed,Degree,Other,Chinese,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Male,31,Single,ONC/BTEC,Other,Black,Newyork,"$28,600 to $36,400",London,No,NA,NA,
+Female,33,Single,Degree,USA,Black,Chicago,"$5,200 to $10,400",London,Yes,10,8,Packets
+Female,37,Single,No Qualification,Other,White,Ohio,"$5,200 to $10,400",London,No,NA,NA,
+Male,81,Divorced,No Qualification,USA,Black,Missouri,"$5,200 to $10,400",London,No,NA,NA,
+Female,36,Single,No Qualification,Other,Black,Newyork,"$20,800 to $28,600",London,No,NA,NA,
+Female,64,Married,No Qualification,USA,White,Chicago,"$10,400 to $15,600",London,Yes,15,7,Hand-Rolled
+Male,51,Married,Other/Sub Degree,USA,Asian,Ohio,"$5,200 to $10,400",London,No,NA,NA,
+Female,19,Single,A Levels,USA,Mixed,Missouri,"$10,400 to $15,600",London,No,NA,NA,
+Female,18,Single,A Levels,USA,Black,Newyork,Refused,London,No,NA,NA,
+Male,31,Married,Degree,USA,White,Chicago,"Above $36,400",London,Yes,10,5,Both/Mainly Packets
+Female,24,Single,ONC/BTEC,USA,White,Ohio,"$5,200 to $10,400",London,No,NA,NA,
+Male,18,Single,No Qualification,Other,Chinese,Missouri,"Under $2,600",London,Yes,20,10,Packets
+Male,22,Single,Degree,Other,Asian,Newyork,"$2,600 to $5,200",London,No,NA,NA,
+Female,26,Single,Other/Sub Degree,Other,Black,Chicago,"$10,400 to $15,600",London,No,NA,NA,
+Female,33,Single,Degree,USA,Black,Ohio,"$2,600 to $5,200",London,No,NA,NA,
+Male,17,Single,GCSE/CSE,USA,Asian,Missouri,"Under $2,600",London,Yes,20,10,Packets
+Male,37,Single,ONC/BTEC,USA,Black,Newyork,"$10,400 to $15,600",London,Yes,20,10,Packets
+Male,60,Married,No Qualification,USA,Chinese,Chicago,"$2,600 to $5,200",London,No,NA,NA,
+Male,80,Married,No Qualification,USA,White,Ohio,"$2,600 to $5,200",South East,No,NA,NA,
+Male,68,Married,ONC/BTEC,USA,White,Missouri,"$10,400 to $15,600",South East,Yes,7,7,Packets
+Female,65,Married,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Male,42,Married,No Qualification,USA,Chinese,Chicago,"$10,400 to $15,600",South East,No,NA,NA,
+Female,48,Married,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",South East,No,NA,NA,
+Male,46,Married,A Levels,Scottish,White,Missouri,"Above $36,400",South East,No,NA,NA,
+Male,44,Married,ONC/BTEC,USA,White,Newyork,"$28,600 to $36,400",South East,No,NA,NA,
+Female,29,Married,A Levels,USA,White,Chicago,"$10,400 to $15,600",South East,Yes,10,5,Packets
+Male,38,Married,Higher/Sub Degree,USA,White,Ohio,"$15,600 to $20,800",South East,No,NA,NA,
+Female,52,Married,No Qualification,Irish,White,Missouri,Refused,South East,No,NA,NA,
+Male,48,Divorced,Degree,USA,White,Newyork,"Above $36,400",South East,No,NA,NA,
+Male,65,Married,GCSE/CSE,USA,White,Chicago,"$10,400 to $15,600",South East,No,NA,NA,
+Male,27,Single,Degree,USA,White,Ohio,"$10,400 to $15,600",South East,No,NA,NA,
+Female,37,Married,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Female,42,Married,GCSE/O Level,USA,White,Newyork,"Under $2,600",South East,No,NA,NA,
+Male,53,Single,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South East,No,NA,NA,
+Female,66,Widowed,No Qualification,USA,White,Ohio,Refused,South East,Yes,20,20,Packets
+Female,20,Single,ONC/BTEC,USA,White,Missouri,"$15,600 to $20,800",South East,No,NA,NA,
+Female,62,Married,No Qualification,Refused,Refused,Newyork,Refused,South East,No,NA,NA,
+Male,18,Single,Other/Sub Degree,USA,White,Chicago,"$2,600 to $5,200",South East,No,NA,NA,
+Male,69,Married,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South East,No,NA,NA,
+Male,63,Divorced,ONC/BTEC,USA,White,Missouri,"Above $36,400",South East,Yes,2,1,Packets
+Male,41,Married,Degree,USA,Chinese,Newyork,"$28,600 to $36,400",South East,No,NA,NA,
+Male,74,Married,Higher/Sub Degree,USA,White,Chicago,"Above $36,400",South East,No,NA,NA,
+Female,20,Single,Other/Sub Degree,Other,White,Ohio,"$2,600 to $5,200",South East,No,NA,NA,
+Female,18,Single,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Male,28,Single,GCSE/O Level,USA,Black,Newyork,"$5,200 to $10,400",South East,Yes,10,10,Hand-Rolled
+Male,49,Married,Degree,USA,Chinese,Chicago,"Above $36,400",South East,No,NA,NA,
+Male,64,Married,Higher/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",South East,No,NA,NA,
+Female,69,Widowed,GCSE/O Level,USA,White,Missouri,"$5,200 to $10,400",South East,No,NA,NA,
+Female,33,Separated,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Female,22,Single,GCSE/CSE,USA,White,Chicago,"$10,400 to $15,600",South East,Yes,15,7,Packets
+Female,63,Married,No Qualification,USA,White,Ohio,"$10,400 to $15,600",South East,No,NA,NA,
+Female,93,Widowed,No Qualification,Welsh,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Female,65,Married,No Qualification,USA,White,Newyork,"Under $2,600",South East,No,NA,NA,
+Female,33,Married,GCSE/O Level,USA,White,Chicago,"$10,400 to $15,600",South East,Yes,20,10,Packets
+Female,38,Married,No Qualification,USA,White,Ohio,"$2,600 to $5,200",South East,No,NA,NA,
+Female,29,Single,GCSE/O Level,USA,White,Missouri,"Under $2,600",South East,Yes,10,10,Packets
+Male,59,Married,A Levels,USA,White,Newyork,"Above $36,400",South East,No,NA,NA,
+Male,37,Single,Degree,USA,Mixed,Chicago,"Above $36,400",South East,No,NA,NA,
+Male,51,Single,No Qualification,USA,White,Ohio,"$20,800 to $28,600",South East,Yes,20,20,Packets
+Female,33,Married,GCSE/O Level,USA,White,Missouri,Refused,South East,No,NA,NA,
+Female,80,Single,Higher/Sub Degree,USA,White,Newyork,"$2,600 to $5,200",South East,No,NA,NA,
+Male,49,Married,A Levels,USA,White,Chicago,"$15,600 to $20,800",South East,No,NA,NA,
+Female,38,Married,Degree,USA,White,Ohio,"$20,800 to $28,600",South East,No,NA,NA,
+Male,45,Single,GCSE/O Level,USA,White,Missouri,"Above $36,400",South East,Yes,10,20,Packets
+Female,58,Married,Higher/Sub Degree,Scottish,White,Newyork,"$20,800 to $28,600",South East,No,NA,NA,
+Female,63,Married,Degree,USA,White,Chicago,"$2,600 to $5,200",South East,No,NA,NA,
+Female,69,Married,Other/Sub Degree,USA,White,Ohio,"$2,600 to $5,200",South East,No,NA,NA,
+Male,86,Widowed,Other/Sub Degree,USA,White,Missouri,"$20,800 to $28,600",South East,No,NA,NA,
+Female,66,Widowed,Higher/Sub Degree,USA,White,Newyork,"$20,800 to $28,600",South East,No,NA,NA,
+Male,61,Married,No Qualification,USA,Unknown,Chicago,"$5,200 to $10,400",South East,No,NA,NA,
+Female,62,Separated,Higher/Sub Degree,USA,White,Ohio,"$15,600 to $20,800",South East,No,NA,NA,
+Female,89,Widowed,No Qualification,USA,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Female,72,Widowed,Degree,USA,White,Newyork,"$20,800 to $28,600",South East,No,NA,NA,
+Male,64,Married,Other/Sub Degree,USA,White,Chicago,"Above $36,400",South East,No,NA,NA,
+Female,58,Married,A Levels,USA,White,Ohio,"$28,600 to $36,400",South East,No,NA,NA,
+Female,80,Widowed,No Qualification,USA,White,Missouri,"$10,400 to $15,600",South East,No,NA,NA,
+Female,61,Married,Higher/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Female,34,Married,Higher/Sub Degree,Irish,White,Chicago,"$5,200 to $10,400",South East,No,NA,NA,
+Female,36,Married,GCSE/O Level,USA,White,Ohio,"Under $2,600",South East,Yes,5,3,Packets
+Female,34,Divorced,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",South East,Yes,20,10,Packets
+Female,40,Single,A Levels,USA,White,Newyork,"Above $36,400",South East,No,NA,NA,
+Male,53,Single,No Qualification,USA,White,Chicago,"$20,800 to $28,600",South East,No,NA,NA,
+Female,31,Single,Degree,USA,White,Ohio,"$20,800 to $28,600",South East,No,NA,NA,
+Female,86,Separated,No Qualification,USA,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Female,46,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South East,Yes,20,20,Packets
+Male,34,Single,GCSE/O Level,Scottish,White,Chicago,"$15,600 to $20,800",South East,No,NA,NA,
+Female,44,Single,Degree,USA,White,Ohio,"$28,600 to $36,400",South East,No,NA,NA,
+Female,69,Widowed,A Levels,USA,White,Missouri,"$5,200 to $10,400",South East,No,NA,NA,
+Female,56,Widowed,No Qualification,USA,White,Newyork,"$15,600 to $20,800",South East,No,NA,NA,
+Male,79,Single,No Qualification,USA,White,Chicago,"$2,600 to $5,200",South East,No,NA,NA,
+Female,41,Separated,GCSE/CSE,USA,White,Ohio,"$5,200 to $10,400",South East,Yes,30,15,Packets
+Male,34,Divorced,ONC/BTEC,USA,White,Missouri,"Above $36,400",South East,Yes,30,15,Packets
+Male,47,Single,GCSE/CSE,USA,White,Newyork,"$2,600 to $5,200",South East,Yes,40,40,Packets
+Male,46,Married,No Qualification,USA,White,Chicago,"$15,600 to $20,800",South East,No,NA,NA,
+Female,30,Single,No Qualification,USA,White,Ohio,"$10,400 to $15,600",South East,No,NA,NA,
+Female,19,Single,A Levels,USA,White,Missouri,"$5,200 to $10,400",South East,No,NA,NA,
+Male,45,Married,Degree,Welsh,White,Newyork,"$28,600 to $36,400",South East,No,NA,NA,
+Female,24,Single,Higher/Sub Degree,Other,White,Chicago,"$10,400 to $15,600",South East,No,NA,NA,
+Male,42,Married,GCSE/O Level,USA,White,Ohio,"$20,800 to $28,600",South East,No,NA,NA,
+Male,32,Married,Other/Sub Degree,USA,White,Missouri,"$15,600 to $20,800",South East,No,NA,NA,
+Male,32,Single,GCSE/CSE,USA,White,Newyork,"$10,400 to $15,600",South East,Yes,20,20,Packets
+Female,28,Single,A Levels,USA,White,Chicago,"Under $2,600",South East,Yes,5,5,Packets
+Female,78,Widowed,No Qualification,USA,White,Ohio,"$10,400 to $15,600",South East,No,NA,NA,
+Male,42,Divorced,GCSE/O Level,USA,White,Missouri,"$15,600 to $20,800",South East,Yes,20,20,Hand-Rolled
+Female,27,Married,Degree,USA,White,Newyork,"$28,600 to $36,400",South East,No,NA,NA,
+Female,57,Married,Other/Sub Degree,USA,White,Chicago,Refused,South East,No,NA,NA,
+Female,24,Single,Degree,Refused,Refused,Ohio,Refused,South East,No,NA,NA,
+Female,71,Married,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Male,51,Married,GCSE/O Level,USA,White,Newyork,"$20,800 to $28,600",South East,No,NA,NA,
+Male,66,Widowed,No Qualification,USA,White,Chicago,"$10,400 to $15,600",South East,No,NA,NA,
+Female,73,Separated,No Qualification,USA,White,Ohio,"$2,600 to $5,200",South East,No,NA,NA,
+Male,18,Single,No Qualification,Refused,Refused,Missouri,Refused,South East,Yes,10,10,Packets
+Male,50,Divorced,A Levels,USA,White,Newyork,"$20,800 to $28,600",South East,Yes,10,5,Packets
+Female,79,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South East,Yes,5,5,Packets
+Female,22,Single,GCSE/O Level,USA,White,Ohio,"Under $2,600",South East,Yes,10,5,Packets
+Male,45,Divorced,No Qualification,USA,White,Missouri,"$10,400 to $15,600",South East,No,NA,NA,
+Female,53,Married,No Qualification,USA,White,Newyork,Refused,South East,No,NA,NA,
+Male,77,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",South East,Yes,15,15,Packets
+Female,64,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South East,No,NA,NA,
+Male,39,Married,A Levels,USA,White,Missouri,"Under $2,600",South East,No,NA,NA,
+Male,54,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South East,Yes,10,20,Both/Mainly Packets
+Male,17,Single,GCSE/CSE,USA,White,Chicago,Refused,South East,No,NA,NA,
+Male,78,Married,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South East,No,NA,NA,
+Male,50,Single,Degree,USA,White,Missouri,"$20,800 to $28,600",South East,Yes,12,6,Packets
+Male,41,Married,Higher/Sub Degree,USA,White,Newyork,"Above $36,400",South East,No,NA,NA,
+Female,48,Divorced,No Qualification,Irish,Mixed,Chicago,"$2,600 to $5,200",South East,Yes,40,20,Packets
+Male,25,Married,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",South East,No,NA,NA,
+Male,18,Married,ONC/BTEC,USA,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Female,58,Married,GCSE/O Level,USA,White,Newyork,"$10,400 to $15,600",South East,No,NA,NA,
+Female,79,Widowed,Higher/Sub Degree,USA,White,Chicago,"$20,800 to $28,600",South East,No,NA,NA,
+Male,62,Married,No Qualification,USA,White,Ohio,"$2,600 to $5,200",South East,Yes,10,10,Hand-Rolled
+Female,36,Married,GCSE/CSE,USA,White,Missouri,"Under $2,600",South East,No,NA,NA,
+Female,38,Divorced,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Male,19,Single,Other/Sub Degree,USA,White,Chicago,"$10,400 to $15,600",South East,No,NA,NA,
+Female,45,Separated,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South East,No,NA,NA,
+Male,54,Married,Degree,USA,White,Missouri,"Above $36,400",South East,No,NA,NA,
+Female,69,Widowed,GCSE/O Level,Scottish,White,Newyork,"$15,600 to $20,800",South East,No,NA,NA,
+Female,65,Widowed,Higher/Sub Degree,USA,White,Chicago,"$10,400 to $15,600",South East,No,NA,NA,
+Male,31,Married,GCSE/CSE,USA,White,Ohio,"$20,800 to $28,600",South East,No,NA,NA,
+Female,31,Married,Degree,USA,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Female,46,Single,No Qualification,USA,White,Newyork,"$2,600 to $5,200",South East,Yes,20,20,Packets
+Male,37,Single,ONC/BTEC,Other,White,Chicago,"$20,800 to $28,600",South East,No,NA,NA,
+Female,72,Married,No Qualification,USA,White,Ohio,Unknown,South East,No,NA,NA,
+Male,59,Married,GCSE/O Level,USA,White,Missouri,"$20,800 to $28,600",South East,No,NA,NA,
+Female,82,Widowed,GCSE/O Level,USA,White,Newyork,Refused,South East,No,NA,NA,
+Male,81,Widowed,Degree,USA,White,Chicago,"$28,600 to $36,400",South East,No,NA,NA,
+Female,65,Widowed,GCSE/O Level,USA,White,Ohio,"$2,600 to $5,200",South East,No,NA,NA,
+Female,48,Divorced,No Qualification,USA,White,Missouri,"$15,600 to $20,800",South East,Yes,5,5,Hand-Rolled
+Male,49,Divorced,ONC/BTEC,USA,White,Newyork,"Above $36,400",South East,Yes,15,10,Packets
+Male,35,Single,GCSE/O Level,USA,White,Chicago,"$2,600 to $5,200",South East,Yes,60,40,Packets
+Female,73,Married,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South East,No,NA,NA,
+Female,80,Divorced,No Qualification,USA,White,Missouri,"$5,200 to $10,400",South East,No,NA,NA,
+Male,55,Married,ONC/BTEC,USA,White,Newyork,"$28,600 to $36,400",South East,No,NA,NA,
+Male,78,Widowed,No Qualification,USA,White,Chicago,Refused,South East,No,NA,NA,
+Female,45,Single,GCSE/O Level,USA,White,Ohio,Refused,South East,Yes,20,20,Packets
+Male,39,Married,A Levels,USA,White,Missouri,"$20,800 to $28,600",South East,Yes,20,10,Packets
+Male,75,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Male,65,Married,Other/Sub Degree,USA,Chinese,Chicago,"$5,200 to $10,400",South East,No,NA,NA,
+Male,79,Divorced,No Qualification,Refused,Refused,Ohio,"$2,600 to $5,200",South East,No,NA,NA,
+Male,75,Married,GCSE/O Level,USA,Chinese,Missouri,"$20,800 to $28,600",South East,No,NA,NA,
+Female,69,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Female,57,Single,No Qualification,USA,White,Chicago,"$15,600 to $20,800",South East,No,NA,NA,
+Female,29,Single,Degree,USA,White,Ohio,"$20,800 to $28,600",South East,No,NA,NA,
+Male,54,Married,No Qualification,USA,White,Missouri,"$20,800 to $28,600",South East,Yes,30,30,Packets
+Male,29,Married,Degree,USA,White,Newyork,"$20,800 to $28,600",South East,No,NA,NA,
+Male,42,Divorced,No Qualification,USA,White,Chicago,"$10,400 to $15,600",South East,No,NA,NA,
+Male,28,Single,Degree,USA,White,Ohio,"$15,600 to $20,800",South East,Yes,5,5,Hand-Rolled
+Female,65,Widowed,No Qualification,USA,White,Missouri,"$15,600 to $20,800",South East,No,NA,NA,
+Male,37,Married,Degree,USA,White,Newyork,"Above $36,400",South East,Yes,0,4,Packets
+Female,35,Single,Degree,USA,White,Chicago,"$5,200 to $10,400",South East,No,NA,NA,
+Female,33,Single,Degree,USA,Mixed,Ohio,"$15,600 to $20,800",South East,Yes,10,6,Both/Mainly Packets
+Male,52,Married,Degree,Other,White,Missouri,"$5,200 to $10,400",South East,Yes,40,40,Packets
+Male,57,Single,Higher/Sub Degree,USA,White,Newyork,"$20,800 to $28,600",South East,No,NA,NA,
+Female,31,Single,Degree,USA,White,Chicago,"$15,600 to $20,800",South East,No,NA,NA,
+Male,73,Married,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South East,No,NA,NA,
+Male,43,Married,Degree,USA,White,Missouri,"Above $36,400",South East,No,NA,NA,
+Male,38,Single,Degree,USA,Black,Newyork,"$28,600 to $36,400",South East,No,NA,NA,
+Female,43,Married,No Qualification,USA,White,Chicago,"Above $36,400",South East,Yes,12,12,Packets
+Female,55,Married,Higher/Sub Degree,USA,White,Ohio,"$20,800 to $28,600",South East,No,NA,NA,
+Male,59,Married,Degree,USA,White,Missouri,"Above $36,400",South East,No,NA,NA,
+Female,33,Married,Degree,USA,White,Newyork,"$20,800 to $28,600",South East,No,NA,NA,
+Female,41,Married,GCSE/O Level,USA,White,Chicago,"$5,200 to $10,400",South East,Yes,20,20,Packets
+Female,46,Married,GCSE/CSE,USA,White,Ohio,"$5,200 to $10,400",South East,Yes,20,20,Packets
+Male,57,Married,Degree,USA,White,Missouri,"Above $36,400",South East,Yes,35,35,Packets
+Male,40,Single,A Levels,USA,White,Newyork,"$15,600 to $20,800",South East,No,NA,NA,
+Male,57,Married,GCSE/O Level,USA,White,Chicago,"$5,200 to $10,400",South East,No,NA,NA,
+Female,39,Married,GCSE/O Level,USA,White,Ohio,"$10,400 to $15,600",South East,Yes,10,7,Packets
+Male,67,Married,Other/Sub Degree,USA,White,Missouri,"$5,200 to $10,400",South East,Yes,5,5,Hand-Rolled
+Female,46,Single,No Qualification,USA,White,Newyork,"$2,600 to $5,200",South East,No,NA,NA,
+Male,39,Married,Higher/Sub Degree,USA,White,Chicago,"$28,600 to $36,400",South East,No,NA,NA,
+Female,55,Married,GCSE/O Level,USA,White,Ohio,Refused,South East,No,NA,NA,
+Male,50,Married,Other/Sub Degree,USA,White,Missouri,"$15,600 to $20,800",South East,Yes,15,10,Hand-Rolled
+Female,70,Widowed,ONC/BTEC,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Female,44,Married,Higher/Sub Degree,Other,White,Chicago,"Under $2,600",South East,No,NA,NA,
+Female,33,Married,ONC/BTEC,USA,White,Ohio,"Under $2,600",South East,No,NA,NA,
+Male,69,Divorced,Other/Sub Degree,USA,White,Missouri,"$5,200 to $10,400",South East,No,NA,NA,
+Female,70,Married,No Qualification,USA,White,Newyork,"Under $2,600",South East,Yes,10,10,Packets
+Female,62,Widowed,No Qualification,USA,White,Chicago,Refused,South East,No,NA,NA,
+Female,31,Married,GCSE/O Level,USA,White,Ohio,"Under $2,600",South East,No,NA,NA,
+Male,70,Married,Other/Sub Degree,USA,White,Missouri,"$10,400 to $15,600",South East,No,NA,NA,
+Male,32,Married,No Qualification,USA,White,Newyork,"$28,600 to $36,400",South East,No,NA,NA,
+Female,75,Divorced,A Levels,USA,White,Chicago,Refused,South East,No,NA,NA,
+Male,47,Married,Higher/Sub Degree,USA,White,Ohio,"$20,800 to $28,600",South East,No,NA,NA,
+Male,57,Married,No Qualification,USA,White,Missouri,"$20,800 to $28,600",South East,No,NA,NA,
+Male,86,Widowed,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Female,32,Single,GCSE/O Level,USA,White,Chicago,"$2,600 to $5,200",South East,No,NA,NA,
+Male,46,Single,GCSE/O Level,USA,White,Ohio,"$10,400 to $15,600",South East,Yes,15,15,Packets
+Male,51,Single,No Qualification,USA,White,Missouri,"Under $2,600",South East,Yes,10,10,Packets
+Female,69,Married,GCSE/O Level,USA,White,Newyork,"$10,400 to $15,600",South East,No,NA,NA,
+Female,73,Married,GCSE/O Level,USA,White,Chicago,"$2,600 to $5,200",South East,No,NA,NA,
+Female,32,Single,Higher/Sub Degree,USA,White,Ohio,"$15,600 to $20,800",South East,Yes,20,20,Packets
+Female,75,Married,GCSE/O Level,USA,White,Missouri,Unknown,South East,No,NA,NA,
+Female,54,Widowed,GCSE/CSE,USA,White,Newyork,"$20,800 to $28,600",South East,Yes,25,25,Packets
+Female,51,Married,Higher/Sub Degree,USA,White,Chicago,"$10,400 to $15,600",South East,No,NA,NA,
+Female,35,Married,Degree,USA,White,Ohio,"$10,400 to $15,600",South East,No,NA,NA,
+Male,38,Married,Degree,USA,White,Missouri,"Above $36,400",South East,No,NA,NA,
+Female,72,Married,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Female,66,Married,A Levels,USA,White,Chicago,Refused,South East,No,NA,NA,
+Female,59,Married,GCSE/CSE,USA,White,Ohio,"$2,600 to $5,200",South East,No,NA,NA,
+Male,70,Married,Degree,USA,White,Missouri,"$20,800 to $28,600",South East,No,NA,NA,
+Male,44,Single,GCSE/CSE,USA,White,Newyork,Refused,South East,No,NA,NA,
+Female,67,Married,GCSE/CSE,USA,White,Chicago,"$5,200 to $10,400",South East,No,NA,NA,
+Male,35,Married,GCSE/O Level,USA,White,Ohio,"$20,800 to $28,600",South East,No,NA,NA,
+Female,33,Married,GCSE/O Level,USA,White,Missouri,"$5,200 to $10,400",South East,No,NA,NA,
+Male,17,Single,GCSE/CSE,USA,White,Newyork,"$2,600 to $5,200",South East,No,NA,NA,
+Female,45,Married,GCSE/O Level,USA,White,Chicago,"Under $2,600",South East,No,NA,NA,
+Female,57,Married,GCSE/O Level,USA,White,Ohio,"$5,200 to $10,400",South East,No,NA,NA,
+Female,18,Single,A Levels,USA,White,Missouri,"Under $2,600",South East,No,NA,NA,
+Male,68,Separated,A Levels,USA,White,Newyork,"$15,600 to $20,800",South East,No,NA,NA,
+Female,27,Single,Higher/Sub Degree,Other,White,Chicago,"$15,600 to $20,800",South East,Yes,12,15,Hand-Rolled
+Female,40,Married,GCSE/CSE,USA,White,Ohio,"Under $2,600",South East,Yes,30,18,Packets
+Male,77,Single,GCSE/CSE,USA,White,Missouri,"$5,200 to $10,400",South East,No,NA,NA,
+Female,77,Married,GCSE/O Level,USA,White,Newyork,"$2,600 to $5,200",South East,No,NA,NA,
+Male,75,Married,ONC/BTEC,USA,White,Chicago,"Above $36,400",South East,No,NA,NA,
+Male,39,Married,ONC/BTEC,USA,White,Ohio,"$15,600 to $20,800",South East,Yes,15,15,Packets
+Female,21,Single,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Female,59,Divorced,Degree,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Male,27,Single,GCSE/CSE,USA,White,Chicago,"$20,800 to $28,600",South East,No,NA,NA,
+Female,67,Married,No Qualification,USA,White,Ohio,"$2,600 to $5,200",South East,No,NA,NA,
+Female,50,Single,Higher/Sub Degree,USA,White,Missouri,"$20,800 to $28,600",South East,No,NA,NA,
+Female,64,Divorced,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Female,79,Widowed,No Qualification,USA,Chinese,Chicago,"$5,200 to $10,400",South East,No,NA,NA,
+Male,31,Single,GCSE/O Level,USA,White,Ohio,"$10,400 to $15,600",South East,Yes,10,20,Both/Mainly Packets
+Female,19,Single,A Levels,USA,Chinese,Missouri,"$10,400 to $15,600",South East,No,NA,NA,
+Male,42,Married,Degree,USA,White,Newyork,"$28,600 to $36,400",South East,No,NA,NA,
+Male,36,Married,GCSE/CSE,USA,White,Chicago,"$5,200 to $10,400",South East,No,NA,NA,
+Male,36,Married,GCSE/CSE,USA,White,Ohio,"$20,800 to $28,600",South East,No,NA,NA,
+Female,64,Widowed,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Female,53,Single,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Female,39,Married,GCSE/CSE,Irish,White,Chicago,"$15,600 to $20,800",South East,Yes,20,20,Packets
+Female,39,Married,Degree,USA,White,Ohio,"$28,600 to $36,400",South East,No,NA,NA,
+Female,28,Married,Degree,USA,White,Missouri,"$5,200 to $10,400",South East,Yes,7,7,Packets
+Male,81,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South East,No,NA,NA,
+Female,79,Married,No Qualification,USA,White,Chicago,"Under $2,600",South East,No,NA,NA,
+Female,72,Married,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South East,No,NA,NA,
+Female,18,Single,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",South East,Yes,25,25,Both/Mainly Hand-Rolled
+Female,76,Married,No Qualification,USA,White,Newyork,"$2,600 to $5,200",South East,No,NA,NA,
+Female,68,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South East,Yes,8,8,Packets
+Female,28,Single,GCSE/CSE,USA,White,Ohio,"$10,400 to $15,600",South East,Yes,20,15,Packets
+Female,42,Divorced,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",South East,No,NA,NA,
+Female,26,Single,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",South East,Yes,15,15,Both/Mainly Packets
+Female,19,Single,No Qualification,Welsh,White,Chicago,"$2,600 to $5,200",South East,Yes,5,5,Packets
+Female,41,Divorced,Other/Sub Degree,Welsh,White,Ohio,"$5,200 to $10,400",South East,Yes,30,30,Packets
+Female,82,Widowed,No Qualification,USA,White,Missouri,"$5,200 to $10,400",South East,No,NA,NA,
+Male,36,Married,Degree,USA,Asian,Newyork,"$15,600 to $20,800",South East,No,NA,NA,
+Male,47,Single,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South East,Yes,25,25,Both/Mainly Hand-Rolled
+Male,77,Widowed,Other/Sub Degree,Scottish,White,Ohio,"$5,200 to $10,400",South East,No,NA,NA,
+Female,66,Divorced,No Qualification,USA,White,Missouri,"Under $2,600",South East,No,NA,NA,
+Male,50,Divorced,Other/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",South East,Yes,15,15,Hand-Rolled
+Female,55,Divorced,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South East,No,NA,NA,
+Female,36,Married,A Levels,USA,White,Ohio,"Under $2,600",South West,Yes,10,0,Packets
+Male,79,Married,No Qualification,Irish,White,Missouri,Unknown,South West,No,NA,NA,
+Female,67,Married,No Qualification,USA,White,Newyork,"$2,600 to $5,200",South West,No,NA,NA,
+Female,42,Single,A Levels,USA,White,Chicago,Refused,South West,No,NA,NA,
+Female,76,Married,No Qualification,USA,White,Ohio,"Under $2,600",South West,No,NA,NA,
+Female,44,Married,Other/Sub Degree,USA,White,Missouri,"$15,600 to $20,800",South West,No,NA,NA,
+Female,75,Married,No Qualification,USA,White,Newyork,"$2,600 to $5,200",South West,No,NA,NA,
+Female,24,Married,Other/Sub Degree,USA,White,Chicago,"$10,400 to $15,600",South West,No,NA,NA,
+Male,78,Married,Other/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",South West,No,NA,NA,
+Female,38,Married,ONC/BTEC,USA,White,Missouri,"$5,200 to $10,400",South West,No,NA,NA,
+Male,22,Single,Other/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",South West,No,NA,NA,
+Female,62,Married,Other/Sub Degree,USA,White,Chicago,"$2,600 to $5,200",South West,No,NA,NA,
+Female,40,Divorced,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South West,Yes,10,5,Packets
+Male,35,Married,Degree,USA,White,Missouri,"$20,800 to $28,600",South West,No,NA,NA,
+Female,45,Married,ONC/BTEC,USA,White,Newyork,"$5,200 to $10,400",South West,No,NA,NA,
+Female,66,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",South West,No,NA,NA,
+Female,53,Divorced,Higher/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",South West,No,NA,NA,
+Female,43,Divorced,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",South West,Yes,5,0,Packets
+Female,72,Widowed,No Qualification,USA,White,Newyork,"$2,600 to $5,200",South West,Yes,3,3,Packets
+Female,72,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Female,67,Married,Higher/Sub Degree,USA,White,Ohio,"$10,400 to $15,600",South West,No,NA,NA,
+Female,37,Divorced,GCSE/O Level,USA,White,Missouri,"$5,200 to $10,400",South West,No,NA,NA,
+Male,38,Married,ONC/BTEC,USA,White,Newyork,"$10,400 to $15,600",South West,No,NA,NA,
+Female,39,Married,GCSE/O Level,USA,White,Chicago,"$10,400 to $15,600",South West,Yes,10,6,Both/Mainly Packets
+Male,64,Divorced,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South West,No,NA,NA,
+Male,72,Married,No Qualification,USA,White,Missouri,"$2,600 to $5,200",South West,No,NA,NA,
+Male,54,Married,GCSE/O Level,USA,White,Newyork,"$10,400 to $15,600",South West,Yes,20,20,Packets
+Female,59,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Female,50,Married,ONC/BTEC,USA,White,Ohio,"$10,400 to $15,600",South West,No,NA,NA,
+Male,33,Married,GCSE/O Level,USA,White,Missouri,"Above $36,400",South West,No,NA,NA,
+Female,45,Married,Higher/Sub Degree,USA,White,Newyork,"$20,800 to $28,600",South West,No,NA,NA,
+Female,73,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Male,68,Married,Degree,USA,White,Ohio,"$15,600 to $20,800",South West,No,NA,NA,
+Female,33,Married,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",South West,No,NA,NA,
+Female,21,Single,ONC/BTEC,USA,White,Newyork,"$2,600 to $5,200",South West,No,NA,NA,
+Female,32,Married,Degree,USA,White,Chicago,"$20,800 to $28,600",South West,No,NA,NA,
+Male,37,Married,Other/Sub Degree,USA,White,Ohio,"$15,600 to $20,800",South West,No,NA,NA,
+Female,48,Single,Degree,USA,White,Missouri,Refused,South West,Yes,10,10,Hand-Rolled
+Male,25,Single,No Qualification,USA,White,Newyork,"$15,600 to $20,800",South West,Yes,40,20,Packets
+Male,61,Married,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South West,Yes,30,10,Hand-Rolled
+Female,86,Widowed,No Qualification,USA,White,Ohio,"$2,600 to $5,200",South West,No,NA,NA,
+Female,45,Married,No Qualification,USA,White,Missouri,"$5,200 to $10,400",South West,No,NA,NA,
+Female,60,Divorced,GCSE/O Level,USA,White,Newyork,"$10,400 to $15,600",South West,No,NA,NA,
+Female,40,Single,Degree,USA,White,Chicago,"$15,600 to $20,800",South West,No,NA,NA,
+Male,55,Married,No Qualification,USA,White,Ohio,Refused,South West,No,NA,NA,
+Male,53,Separated,GCSE/O Level,Welsh,White,Missouri,"$10,400 to $15,600",South West,No,NA,NA,
+Male,41,Married,GCSE/O Level,USA,White,Newyork,"$2,600 to $5,200",South West,No,NA,NA,
+Female,17,Single,GCSE/O Level,USA,White,Chicago,"Under $2,600",South West,Yes,20,10,Both/Mainly Packets
+Female,42,Divorced,Higher/Sub Degree,USA,White,Ohio,"$15,600 to $20,800",South West,No,NA,NA,
+Male,44,Married,GCSE/O Level,USA,White,Missouri,"$20,800 to $28,600",South West,No,NA,NA,
+Female,43,Married,A Levels,USA,White,Newyork,"$10,400 to $15,600",South West,No,NA,NA,
+Female,39,Married,Other/Sub Degree,Other,White,Chicago,"$2,600 to $5,200",South West,Yes,20,20,Packets
+Male,67,Married,No Qualification,USA,White,Ohio,"$10,400 to $15,600",South West,No,NA,NA,
+Female,73,Married,No Qualification,USA,White,Missouri,"Under $2,600",South West,No,NA,NA,
+Female,16,Single,GCSE/O Level,USA,White,Newyork,"$2,600 to $5,200",South West,No,NA,NA,
+Female,73,Widowed,No Qualification,USA,White,Chicago,"$10,400 to $15,600",South West,No,NA,NA,
+Male,52,Married,Degree,Scottish,White,Ohio,"Above $36,400",South West,No,NA,NA,
+Male,72,Single,No Qualification,USA,White,Missouri,"$5,200 to $10,400",South West,No,NA,NA,
+Male,79,Married,No Qualification,USA,White,Newyork,"$10,400 to $15,600",South West,No,NA,NA,
+Female,90,Widowed,No Qualification,USA,White,Chicago,"$2,600 to $5,200",South West,No,NA,NA,
+Male,27,Single,Higher/Sub Degree,USA,White,Ohio,"$20,800 to $28,600",South West,Yes,30,10,Packets
+Male,32,Divorced,Degree,USA,White,Missouri,"Above $36,400",South West,No,NA,NA,
+Female,38,Divorced,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",South West,No,NA,NA,
+Female,21,Single,Degree,USA,White,Chicago,"Under $2,600",South West,No,NA,NA,
+Male,40,Married,A Levels,USA,White,Ohio,"Above $36,400",South West,No,NA,NA,
+Male,28,Married,Degree,USA,White,Missouri,"Above $36,400",South West,No,NA,NA,
+Male,47,Married,A Levels,USA,White,Newyork,"Above $36,400",South West,Yes,40,40,Packets
+Female,45,Married,Degree,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Female,95,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South West,No,NA,NA,
+Male,18,Single,A Levels,USA,White,Missouri,"$2,600 to $5,200",South West,No,NA,NA,
+Female,89,Widowed,GCSE/O Level,USA,White,Newyork,Unknown,South West,No,NA,NA,
+Female,82,Widowed,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Male,65,Married,A Levels,USA,White,Ohio,"$28,600 to $36,400",South West,No,NA,NA,
+Female,87,Widowed,GCSE/O Level,USA,White,Missouri,"$5,200 to $10,400",South West,No,NA,NA,
+Male,30,Single,Higher/Sub Degree,USA,White,Newyork,"$20,800 to $28,600",South West,Yes,4,1,Packets
+Female,77,Widowed,Degree,USA,White,Chicago,"$28,600 to $36,400",South West,No,NA,NA,
+Female,55,Divorced,Degree,USA,White,Ohio,"Above $36,400",South West,No,NA,NA,
+Female,33,Married,Degree,USA,Asian,Missouri,"$5,200 to $10,400",South West,No,NA,NA,
+Female,56,Married,No Qualification,USA,Black,Newyork,"$5,200 to $10,400",South West,No,NA,NA,
+Female,68,Divorced,No Qualification,USA,White,Chicago,"$2,600 to $5,200",South West,Yes,15,10,Packets
+Female,73,Married,No Qualification,USA,White,Ohio,"$2,600 to $5,200",South West,No,NA,NA,
+Female,66,Single,GCSE/O Level,USA,White,Missouri,"$10,400 to $15,600",South West,No,NA,NA,
+Female,73,Married,Other/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",South West,No,NA,NA,
+Male,42,Married,Higher/Sub Degree,USA,White,Chicago,"$20,800 to $28,600",South West,Yes,12,0,Packets
+Male,41,Single,No Qualification,Welsh,White,Ohio,Refused,South West,No,NA,NA,
+Female,35,Married,GCSE/CSE,USA,White,Missouri,"$10,400 to $15,600",South West,No,NA,NA,
+Female,53,Married,No Qualification,USA,White,Newyork,"$2,600 to $5,200",South West,No,NA,NA,
+Female,74,Divorced,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Male,46,Married,No Qualification,USA,White,Ohio,"$10,400 to $15,600",South West,Yes,25,25,Hand-Rolled
+Female,22,Single,GCSE/CSE,USA,White,Missouri,"$2,600 to $5,200",South West,No,NA,NA,
+Male,27,Married,A Levels,USA,White,Newyork,"$15,600 to $20,800",South West,No,NA,NA,
+Female,71,Married,GCSE/O Level,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Male,78,Widowed,Other/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",South West,No,NA,NA,
+Female,38,Married,GCSE/O Level,USA,White,Missouri,"$5,200 to $10,400",South West,No,NA,NA,
+Female,31,Married,A Levels,USA,White,Newyork,"$10,400 to $15,600",South West,No,NA,NA,
+Female,54,Married,Degree,USA,White,Chicago,"$2,600 to $5,200",South West,No,NA,NA,
+Female,31,Single,GCSE/CSE,USA,White,Ohio,"$10,400 to $15,600",South West,No,NA,NA,
+Male,53,Married,ONC/BTEC,USA,Mixed,Missouri,"Above $36,400",South West,No,NA,NA,
+Female,36,Single,GCSE/O Level,USA,White,Newyork,"$2,600 to $5,200",South West,Yes,20,20,Both/Mainly Packets
+Male,41,Married,Other/Sub Degree,USA,White,Chicago,"$15,600 to $20,800",South West,No,NA,NA,
+Male,78,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South West,Yes,15,12,Packets
+Female,54,Divorced,GCSE/O Level,USA,White,Missouri,"$2,600 to $5,200",South West,Yes,10,10,Packets
+Female,72,Divorced,No Qualification,USA,White,Newyork,"$2,600 to $5,200",South West,No,NA,NA,
+Male,28,Married,Other/Sub Degree,USA,White,Chicago,"$20,800 to $28,600",South West,Yes,20,20,Hand-Rolled
+Female,41,Separated,GCSE/O Level,USA,White,Ohio,"$5,200 to $10,400",South West,Yes,20,15,Both/Mainly Packets
+Female,78,Married,No Qualification,USA,White,Missouri,"Under $2,600",South West,No,NA,NA,
+Male,71,Widowed,No Qualification,Welsh,White,Newyork,"$5,200 to $10,400",South West,No,NA,NA,
+Female,57,Married,Other/Sub Degree,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Male,31,Married,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",South West,Yes,1,5,Packets
+Female,64,Widowed,No Qualification,Irish,White,Missouri,"$5,200 to $10,400",South West,No,NA,NA,
+Male,65,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South West,No,NA,NA,
+Male,61,Married,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Male,33,Married,GCSE/CSE,USA,White,Ohio,"$20,800 to $28,600",South West,No,NA,NA,
+Female,60,Married,ONC/BTEC,USA,White,Missouri,Refused,South West,Yes,20,20,Packets
+Male,40,Married,Higher/Sub Degree,USA,White,Newyork,"$15,600 to $20,800",South West,No,NA,NA,
+Female,68,Married,Other/Sub Degree,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Female,36,Married,No Qualification,USA,White,Ohio,"$15,600 to $20,800",South West,No,NA,NA,
+Female,35,Married,GCSE/O Level,USA,White,Missouri,"Under $2,600",South West,No,NA,NA,
+Male,22,Single,GCSE/CSE,USA,White,Newyork,"$20,800 to $28,600",South West,Yes,20,5,Packets
+Female,43,Married,GCSE/CSE,USA,White,Chicago,"$2,600 to $5,200",South West,No,NA,NA,
+Male,84,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South West,No,NA,NA,
+Female,24,Single,No Qualification,USA,White,Missouri,"$5,200 to $10,400",South West,No,NA,NA,
+Male,68,Married,No Qualification,USA,White,Newyork,"$5,200 to $10,400",South West,Yes,25,12,Hand-Rolled
+Male,35,Single,Other/Sub Degree,USA,White,Chicago,"Under $2,600",South West,Yes,10,10,Packets
+Female,51,Divorced,Other/Sub Degree,USA,White,Ohio,Unknown,South West,Yes,25,25,Packets
+Male,45,Married,ONC/BTEC,USA,White,Missouri,"$28,600 to $36,400",South West,No,NA,NA,
+Female,45,Single,No Qualification,USA,White,Newyork,Refused,South West,Yes,5,5,Packets
+Male,71,Married,No Qualification,USA,White,Chicago,"$10,400 to $15,600",South West,No,NA,NA,
+Female,47,Married,No Qualification,USA,White,Ohio,"$5,200 to $10,400",South West,Yes,20,15,Packets
+Female,39,Married,Higher/Sub Degree,USA,White,Missouri,"$10,400 to $15,600",South West,No,NA,NA,
+Male,62,Married,Higher/Sub Degree,USA,White,Newyork,"$2,600 to $5,200",South West,No,NA,NA,
+Female,37,Single,Degree,USA,White,Chicago,"$15,600 to $20,800",South West,No,NA,NA,
+Female,71,Married,No Qualification,USA,White,Ohio,Refused,South West,No,NA,NA,
+Male,49,Divorced,Degree,USA,White,Missouri,"$28,600 to $36,400",South West,No,NA,NA,
+Female,22,Single,GCSE/CSE,USA,White,Newyork,"$2,600 to $5,200",South West,Yes,30,20,Both/Mainly Packets
+Male,61,Married,No Qualification,USA,White,Chicago,"Under $2,600",South West,No,NA,NA,
+Male,34,Single,GCSE/O Level,USA,White,Ohio,"$20,800 to $28,600",South West,Yes,10,5,Packets
+Female,40,Separated,Degree,USA,White,Missouri,"Above $36,400",South West,No,NA,NA,
+Female,27,Separated,No Qualification,USA,White,Newyork,"$2,600 to $5,200",South West,Yes,20,20,Both/Mainly Packets
+Male,28,Single,ONC/BTEC,USA,White,Chicago,"$10,400 to $15,600",South West,Yes,12,12,Packets
+Female,28,Single,A Levels,USA,White,Ohio,"$10,400 to $15,600",South West,No,NA,NA,
+Male,36,Married,GCSE/CSE,USA,White,Missouri,"$20,800 to $28,600",South West,Yes,20,30,Both/Mainly Packets
+Female,34,Single,GCSE/O Level,USA,White,Newyork,"$5,200 to $10,400",South West,Yes,20,20,Hand-Rolled
+Male,19,Single,A Levels,USA,White,Chicago,"$10,400 to $15,600",South West,No,NA,NA,
+Female,31,Divorced,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",South West,Yes,20,20,Packets
+Male,49,Divorced,No Qualification,USA,White,Missouri,Refused,South West,Yes,20,20,Hand-Rolled
+Male,42,Divorced,A Levels,Irish,White,Newyork,"$2,600 to $5,200",South West,Yes,50,50,Hand-Rolled
+Female,38,Married,No Qualification,USA,White,Chicago,"Under $2,600",South West,No,NA,NA,
+Male,16,Single,No Qualification,USA,White,Ohio,"Under $2,600",South West,Yes,6,6,Both/Mainly Packets
+Male,73,Married,No Qualification,USA,White,Missouri,"$5,200 to $10,400",South West,No,NA,NA,
+Male,36,Married,GCSE/O Level,USA,Asian,Newyork,"$15,600 to $20,800",South West,No,NA,NA,
+Female,81,Married,No Qualification,Welsh,White,Chicago,"Under $2,600",South West,No,NA,NA,
+Female,97,Widowed,No Qualification,USA,White,Ohio,"$10,400 to $15,600",South West,No,NA,NA,
+Male,38,Married,No Qualification,USA,White,Missouri,"$10,400 to $15,600",South West,No,NA,NA,
+Female,46,Married,Other/Sub Degree,USA,White,Newyork,"$5,200 to $10,400",South West,Yes,12,7,Packets
+Male,79,Married,No Qualification,USA,White,Chicago,"$5,200 to $10,400",South West,No,NA,NA,
+Female,76,Widowed,No Qualification,USA,White,Ohio,"$2,600 to $5,200",South West,Yes,4,4,Packets
+Female,54,Widowed,No Qualification,Irish,White,Missouri,"$2,600 to $5,200",Wales,No,NA,NA,
+Male,59,Married,Degree,USA,White,Newyork,"Above $36,400",Wales,No,NA,NA,
+Male,52,Separated,Degree,USA,White,Chicago,"Above $36,400",Wales,No,NA,NA,
+Male,58,Divorced,No Qualification,Welsh,White,Ohio,"$5,200 to $10,400",Wales,Yes,20,20,Both/Mainly Packets
+Male,69,Divorced,Degree,Welsh,White,Missouri,"$15,600 to $20,800",Wales,No,NA,NA,
+Male,67,Widowed,Degree,Welsh,White,Newyork,"$5,200 to $10,400",Wales,No,NA,NA,
+Female,76,Married,Other/Sub Degree,Welsh,White,Chicago,Refused,Wales,No,NA,NA,
+Male,33,Married,No Qualification,USA,Asian,Ohio,"$5,200 to $10,400",Wales,No,NA,NA,
+Male,61,Separated,No Qualification,Welsh,White,Missouri,Refused,Wales,Yes,30,30,Hand-Rolled
+Female,82,Widowed,No Qualification,Welsh,White,Newyork,Refused,Wales,No,NA,NA,
+Male,62,Married,No Qualification,Welsh,White,Chicago,"$5,200 to $10,400",Wales,No,NA,NA,
+Male,66,Divorced,No Qualification,Welsh,White,Ohio,Refused,Wales,No,NA,NA,
+Female,69,Widowed,No Qualification,Welsh,White,Missouri,"Under $2,600",Wales,No,NA,NA,
+Female,25,Married,No Qualification,Other,Asian,Newyork,Refused,Wales,No,NA,NA,
+Male,29,Single,Degree,Welsh,White,Chicago,"$20,800 to $28,600",Wales,No,NA,NA,
+Male,28,Married,Degree,USA,White,Ohio,"$10,400 to $15,600",Wales,No,NA,NA,
+Female,52,Single,Degree,Other,White,Missouri,"$28,600 to $36,400",Wales,No,NA,NA,
+Female,81,Widowed,No Qualification,Welsh,White,Newyork,Refused,Wales,No,NA,NA,
+Female,44,Married,GCSE/O Level,Welsh,White,Chicago,"$10,400 to $15,600",Wales,Yes,20,20,Packets
+Female,62,Married,GCSE/O Level,Welsh,White,Ohio,Refused,Wales,No,NA,NA,
+Male,45,Married,No Qualification,Welsh,White,Missouri,"$2,600 to $5,200",Wales,No,NA,NA,
+Female,71,Widowed,No Qualification,Welsh,White,Newyork,"$5,200 to $10,400",Wales,No,NA,NA,
+Female,72,Married,No Qualification,Welsh,White,Chicago,"$2,600 to $5,200",Wales,No,NA,NA,
+Female,69,Widowed,No Qualification,USA,White,Ohio,Unknown,Wales,Yes,15,15,Packets
+Female,72,Widowed,No Qualification,Welsh,White,Missouri,"$2,600 to $5,200",Wales,Yes,10,10,Packets
+Male,61,Married,No Qualification,Welsh,White,Newyork,"$5,200 to $10,400",Wales,No,NA,NA,
+Female,29,Married,A Levels,USA,White,Chicago,"$2,600 to $5,200",Wales,Yes,5,2,Packets
+Female,37,Single,Higher/Sub Degree,USA,White,Ohio,"$5,200 to $10,400",Wales,Yes,30,30,Packets
+Male,29,Single,GCSE/O Level,Welsh,White,Missouri,"$15,600 to $20,800",Wales,Yes,20,20,Packets
+Male,57,Married,No Qualification,USA,White,Newyork,"$10,400 to $15,600",Wales,No,NA,NA,
+Male,60,Married,GCSE/O Level,Welsh,White,Chicago,"$5,200 to $10,400",Wales,No,NA,NA,
+Male,38,Married,Higher/Sub Degree,Welsh,White,Ohio,"$28,600 to $36,400",Wales,No,NA,NA,
+Male,74,Married,No Qualification,Welsh,White,Missouri,"$5,200 to $10,400",Wales,No,NA,NA,
+Male,38,Married,Higher/Sub Degree,Welsh,White,Newyork,"$10,400 to $15,600",Wales,No,NA,NA,
+Female,51,Divorced,GCSE/O Level,Welsh,White,Chicago,Refused,Wales,No,NA,NA,
+Male,68,Married,No Qualification,Welsh,White,Ohio,"$2,600 to $5,200",Wales,Yes,15,15,Hand-Rolled
+Male,67,Married,Higher/Sub Degree,Welsh,White,Missouri,"$10,400 to $15,600",Wales,No,NA,NA,
+Male,32,Single,GCSE/O Level,Welsh,White,Newyork,"$10,400 to $15,600",Wales,No,NA,NA,
+Female,25,Married,ONC/BTEC,USA,Asian,Chicago,"$5,200 to $10,400",Wales,No,NA,NA,
+Male,53,Married,No Qualification,Welsh,White,Ohio,"$15,600 to $20,800",Wales,No,NA,NA,
+Female,52,Divorced,No Qualification,Welsh,Unknown,Missouri,"$5,200 to $10,400",Wales,Yes,5,5,Packets
+Female,21,Single,No Qualification,Welsh,White,Newyork,"$2,600 to $5,200",Wales,No,NA,NA,
+Female,71,Divorced,No Qualification,Welsh,White,Chicago,"$5,200 to $10,400",Wales,No,NA,NA,
+Female,30,Married,GCSE/O Level,USA,White,Ohio,"Under $2,600",Wales,No,NA,NA,
+Male,23,Single,GCSE/O Level,Welsh,White,Missouri,"$15,600 to $20,800",Wales,No,NA,NA,
+Female,28,Single,Higher/Sub Degree,Welsh,White,Newyork,"$10,400 to $15,600",Wales,Yes,0,1,Packets
+Female,37,Married,GCSE/O Level,Welsh,White,Chicago,"$5,200 to $10,400",Wales,No,NA,NA,
+Female,84,Widowed,No Qualification,Welsh,White,Ohio,"$2,600 to $5,200",Wales,No,NA,NA,
+Female,61,Married,No Qualification,USA,White,Missouri,"$2,600 to $5,200",Wales,No,NA,NA,
+Female,18,Single,GCSE/O Level,Welsh,White,Newyork,"$2,600 to $5,200",Wales,No,NA,NA,
+Female,55,Married,GCSE/O Level,USA,White,Chicago,"$5,200 to $10,400",Wales,No,NA,NA,
+Male,52,Single,Higher/Sub Degree,USA,White,Ohio,"$20,800 to $28,600",Wales,No,NA,NA,
+Female,46,Married,No Qualification,Welsh,White,Missouri,"$2,600 to $5,200",Wales,Yes,25,25,Packets
+Female,46,Married,Other/Sub Degree,USA,White,Newyork,"$10,400 to $15,600",Wales,No,NA,NA,
+Male,23,Single,No Qualification,Welsh,White,Chicago,"$2,600 to $5,200",Wales,No,NA,NA,
+Male,58,Married,Degree,USA,White,Ohio,"$20,800 to $28,600",Wales,No,NA,NA,
+Male,16,Single,GCSE/O Level,Welsh,White,Missouri,"Under $2,600",Wales,No,NA,NA,
+Male,71,Married,No Qualification,Welsh,White,Newyork,"$15,600 to $20,800",Wales,No,NA,NA,
+Female,47,Married,No Qualification,USA,White,Chicago,"$2,600 to $5,200",Wales,Yes,10,10,Packets
+Male,34,Married,Degree,Welsh,White,Ohio,"$20,800 to $28,600",Wales,No,NA,NA,
+Female,55,Single,No Qualification,USA,White,Missouri,"Above $36,400",Wales,No,NA,NA,
+Female,78,Widowed,Other/Sub Degree,USA,White,Newyork,"$20,800 to $28,600",Wales,No,NA,NA,
+Male,35,Single,No Qualification,Welsh,White,Chicago,"$2,600 to $5,200",Wales,Yes,40,40,Hand-Rolled
+Male,68,Married,No Qualification,USA,White,Ohio,"$20,800 to $28,600",Wales,No,NA,NA,
+Male,76,Single,No Qualification,USA,White,Missouri,"$5,200 to $10,400",Wales,No,NA,NA,
+Male,28,Single,GCSE/CSE,Welsh,White,Newyork,"$10,400 to $15,600",Wales,No,NA,NA,
+Female,36,Divorced,GCSE/CSE,USA,White,Chicago,"$5,200 to $10,400",Wales,Yes,20,20,Both/Mainly Packets
+Female,57,Divorced,ONC/BTEC,USA,White,Ohio,"$5,200 to $10,400",Wales,No,NA,NA,
+Female,29,Single,Higher/Sub Degree,Welsh,White,Missouri,"$10,400 to $15,600",Wales,Yes,20,10,Both/Mainly Packets
+Female,27,Single,GCSE/O Level,Welsh,White,Newyork,"$5,200 to $10,400",Wales,Yes,5,5,Packets
+Female,64,Widowed,No Qualification,USA,White,Chicago,"$2,600 to $5,200",Wales,No,NA,NA,
+Female,89,Single,No Qualification,Welsh,White,Ohio,Refused,Wales,No,NA,NA,
+Female,26,Single,GCSE/CSE,Welsh,White,Missouri,"$2,600 to $5,200",Wales,Yes,15,15,Packets
+Male,27,Single,Higher/Sub Degree,Welsh,White,Newyork,"$20,800 to $28,600",Wales,No,NA,NA,
+Male,66,Single,Higher/Sub Degree,USA,White,Chicago,"$10,400 to $15,600",Wales,No,NA,NA,
+Female,84,Widowed,No Qualification,USA,White,Ohio,"$5,200 to $10,400",Wales,No,NA,NA,
+Male,41,Single,Higher/Sub Degree,USA,White,Missouri,"$20,800 to $28,600",Wales,Yes,20,12,Packets
+Male,27,Single,Degree,USA,White,Newyork,"$15,600 to $20,800",Wales,No,NA,NA,
+Female,40,Divorced,GCSE/O Level,USA,White,Chicago,"$10,400 to $15,600",Wales,No,NA,NA,
+Female,79,Widowed,No Qualification,USA,White,Ohio,"$10,400 to $15,600",Wales,No,NA,NA,
+Male,49,Married,No Qualification,USA,White,Missouri,"$20,800 to $28,600",Wales,Yes,20,20,Packets
+Female,79,Widowed,No Qualification,USA,White,Newyork,Unknown,Wales,No,NA,NA,
+Female,54,Married,No Qualification,Welsh,White,Chicago,"Under $2,600",Wales,No,NA,NA,
+Male,25,Single,GCSE/O Level,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,Yes,10,10,Packets
+Female,45,Single,Degree,Scottish,White,Missouri,"$28,600 to $36,400",Scotland,Yes,5,5,Packets
+Female,24,Single,Degree,Scottish,White,Newyork,"$5,200 to $10,400",Scotland,Yes,5,5,Packets
+Female,54,Divorced,No Qualification,Scottish,White,Chicago,"$10,400 to $15,600",Scotland,Yes,20,10,Packets
+Female,78,Widowed,No Qualification,Scottish,White,Ohio,"$15,600 to $20,800",Scotland,No,NA,NA,
+Male,50,Married,No Qualification,Scottish,White,Missouri,"$10,400 to $15,600",Scotland,Yes,25,25,Hand-Rolled
+Female,42,Married,Degree,Scottish,White,Newyork,"$20,800 to $28,600",Scotland,No,NA,NA,
+Female,32,Single,A Levels,Scottish,White,Chicago,"$10,400 to $15,600",Scotland,Yes,10,10,Packets
+Male,75,Single,No Qualification,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,25,Single,GCSE/O Level,Scottish,White,Missouri,"Under $2,600",Scotland,Yes,15,15,Packets
+Male,50,Separated,Higher/Sub Degree,Scottish,White,Newyork,"$20,800 to $28,600",Scotland,No,NA,NA,
+Male,24,Single,Higher/Sub Degree,Scottish,White,Chicago,"$28,600 to $36,400",Scotland,Yes,15,15,Packets
+Male,35,Single,Higher/Sub Degree,USA,White,Ohio,"$28,600 to $36,400",Scotland,No,NA,NA,
+Female,52,Married,No Qualification,Scottish,White,Missouri,"$10,400 to $15,600",Scotland,No,NA,NA,
+Female,42,Married,Degree,USA,White,Newyork,"$10,400 to $15,600",Scotland,No,NA,NA,
+Male,44,Separated,GCSE/O Level,Scottish,White,Chicago,"$15,600 to $20,800",Scotland,No,NA,NA,
+Male,67,Widowed,No Qualification,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,Yes,20,12,Hand-Rolled
+Female,69,Widowed,No Qualification,Scottish,White,Missouri,"$2,600 to $5,200",Scotland,No,NA,NA,
+Female,91,Single,No Qualification,Scottish,White,Newyork,"$2,600 to $5,200",Scotland,No,NA,NA,
+Male,61,Divorced,No Qualification,Scottish,White,Chicago,"$2,600 to $5,200",Scotland,No,NA,NA,
+Female,50,Single,Degree,USA,White,Ohio,"$20,800 to $28,600",Scotland,No,NA,NA,
+Male,37,Single,Higher/Sub Degree,Scottish,White,Missouri,"$20,800 to $28,600",Scotland,No,NA,NA,
+Female,35,Single,Higher/Sub Degree,Scottish,White,Newyork,"$15,600 to $20,800",Scotland,Yes,15,15,Packets
+Male,24,Single,Higher/Sub Degree,USA,White,Chicago,"$10,400 to $15,600",Scotland,Yes,20,15,Packets
+Female,39,Single,No Qualification,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,79,Divorced,No Qualification,Scottish,White,Missouri,"$2,600 to $5,200",Scotland,No,NA,NA,
+Male,40,Married,Degree,Scottish,White,Newyork,"Above $36,400",Scotland,No,NA,NA,
+Male,60,Married,Degree,USA,White,Chicago,"Above $36,400",Scotland,No,NA,NA,
+Male,42,Married,No Qualification,Scottish,White,Ohio,"$20,800 to $28,600",Scotland,No,NA,NA,
+Male,64,Widowed,Other/Sub Degree,Scottish,White,Missouri,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,55,Married,GCSE/O Level,Scottish,White,Newyork,"$15,600 to $20,800",Scotland,Yes,2,10,Packets
+Male,54,Married,Other/Sub Degree,Scottish,White,Chicago,"$10,400 to $15,600",Scotland,No,NA,NA,
+Female,61,Married,Higher/Sub Degree,USA,White,Ohio,"$10,400 to $15,600",Scotland,No,NA,NA,
+Female,62,Divorced,Higher/Sub Degree,Scottish,White,Missouri,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,59,Divorced,Degree,Scottish,White,Newyork,Unknown,Scotland,No,NA,NA,
+Female,79,Widowed,GCSE/CSE,Scottish,White,Chicago,Refused,Scotland,No,NA,NA,
+Female,37,Married,Degree,USA,White,Ohio,"$10,400 to $15,600",Scotland,No,NA,NA,
+Female,55,Married,Other/Sub Degree,Scottish,White,Missouri,"$2,600 to $5,200",Scotland,Yes,12,8,Packets
+Female,88,Widowed,Higher/Sub Degree,Scottish,White,Newyork,"$28,600 to $36,400",Scotland,No,NA,NA,
+Female,39,Divorced,Degree,USA,White,Chicago,"$15,600 to $20,800",Scotland,No,NA,NA,
+Male,34,Single,Degree,USA,White,Ohio,"Above $36,400",Scotland,No,NA,NA,
+Male,42,Married,Degree,Scottish,White,Missouri,"$28,600 to $36,400",Scotland,No,NA,NA,
+Female,45,Married,Degree,USA,White,Newyork,"$2,600 to $5,200",Scotland,No,NA,NA,
+Male,59,Married,ONC/BTEC,Scottish,White,Chicago,"Above $36,400",Scotland,No,NA,NA,
+Male,58,Married,GCSE/O Level,USA,White,Ohio,"$10,400 to $15,600",Scotland,Yes,30,30,Packets
+Male,74,Widowed,Higher/Sub Degree,USA,White,Missouri,"$5,200 to $10,400",Scotland,No,NA,NA,
+Male,45,Married,GCSE/O Level,Scottish,White,Newyork,"$20,800 to $28,600",Scotland,No,NA,NA,
+Male,64,Married,No Qualification,Scottish,White,Chicago,"$10,400 to $15,600",Scotland,No,NA,NA,
+Male,53,Single,Higher/Sub Degree,Scottish,White,Ohio,"$15,600 to $20,800",Scotland,No,NA,NA,
+Male,40,Married,GCSE/O Level,Scottish,White,Missouri,"$15,600 to $20,800",Scotland,No,NA,NA,
+Male,30,Married,ONC/BTEC,Scottish,White,Newyork,"$15,600 to $20,800",Scotland,Yes,10,10,Hand-Rolled
+Male,70,Married,No Qualification,Scottish,White,Chicago,"$10,400 to $15,600",Scotland,No,NA,NA,
+Female,28,Separated,ONC/BTEC,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,78,Widowed,No Qualification,Scottish,White,Missouri,"$2,600 to $5,200",Scotland,No,NA,NA,
+Male,41,Married,A Levels,Scottish,White,Newyork,"$20,800 to $28,600",Scotland,Yes,24,24,Packets
+Female,69,Divorced,No Qualification,USA,White,Chicago,"$5,200 to $10,400",Scotland,No,NA,NA,
+Male,54,Married,GCSE/O Level,Scottish,White,Ohio,"$20,800 to $28,600",Scotland,No,NA,NA,
+Male,59,Married,ONC/BTEC,Scottish,White,Missouri,"$15,600 to $20,800",Scotland,Yes,20,20,Hand-Rolled
+Female,23,Single,GCSE/O Level,Scottish,White,Newyork,"$5,200 to $10,400",Scotland,Yes,15,15,Packets
+Male,40,Married,No Qualification,Scottish,White,Chicago,"$15,600 to $20,800",Scotland,Yes,30,15,Packets
+Male,17,Single,GCSE/O Level,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,Yes,15,6,Packets
+Male,54,Single,No Qualification,USA,White,Missouri,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,49,Divorced,No Qualification,Scottish,White,Newyork,"$5,200 to $10,400",Scotland,No,NA,NA,
+Male,55,Married,Higher/Sub Degree,Scottish,White,Chicago,"$5,200 to $10,400",Scotland,Yes,45,45,Hand-Rolled
+Male,51,Widowed,ONC/BTEC,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,Yes,20,20,Packets
+Female,73,Married,No Qualification,Scottish,White,Missouri,"Under $2,600",Scotland,No,NA,NA,
+Female,41,Married,No Qualification,Scottish,White,Newyork,"$2,600 to $5,200",Scotland,No,NA,NA,
+Female,70,Married,GCSE/O Level,USA,White,Chicago,"$20,800 to $28,600",Scotland,No,NA,NA,
+Female,44,Separated,No Qualification,Scottish,White,Ohio,"$10,400 to $15,600",Scotland,Yes,15,10,Packets
+Male,51,Divorced,No Qualification,Scottish,White,Missouri,"Under $2,600",Scotland,No,NA,NA,
+Male,68,Married,Degree,Irish,White,Newyork,"$28,600 to $36,400",Scotland,Yes,1,0,Packets
+Female,75,Separated,No Qualification,Scottish,White,Chicago,"$2,600 to $5,200",Scotland,No,NA,NA,
+Male,60,Married,No Qualification,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,Yes,20,15,Packets
+Male,56,Married,No Qualification,Scottish,White,Missouri,"$2,600 to $5,200",Scotland,No,NA,NA,
+Male,64,Widowed,No Qualification,Scottish,White,Newyork,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,27,Single,Degree,Scottish,White,Chicago,"$10,400 to $15,600",Scotland,No,NA,NA,
+Female,73,Widowed,No Qualification,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,Yes,20,12,Packets
+Male,34,Single,GCSE/O Level,Scottish,White,Missouri,"$15,600 to $20,800",Scotland,Yes,10,2,Packets
+Male,47,Married,GCSE/O Level,USA,White,Newyork,"$10,400 to $15,600",Scotland,Yes,15,10,Hand-Rolled
+Male,32,Single,A Levels,Scottish,White,Chicago,"$10,400 to $15,600",Scotland,No,NA,NA,
+Male,63,Married,No Qualification,USA,White,Ohio,"$15,600 to $20,800",Scotland,No,NA,NA,
+Female,23,Single,Degree,Scottish,White,Missouri,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,63,Married,No Qualification,Scottish,White,Newyork,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,46,Divorced,A Levels,Scottish,White,Chicago,"$15,600 to $20,800",Scotland,No,NA,NA,
+Male,48,Single,A Levels,Scottish,White,Ohio,"$10,400 to $15,600",Scotland,No,NA,NA,
+Male,68,Married,No Qualification,Scottish,White,Missouri,"$5,200 to $10,400",Scotland,No,NA,NA,
+Male,52,Separated,No Qualification,Scottish,White,Newyork,"$15,600 to $20,800",Scotland,Yes,20,20,Packets
+Female,29,Separated,No Qualification,Scottish,White,Chicago,"$15,600 to $20,800",Scotland,Yes,10,6,Packets
+Female,16,Single,No Qualification,Scottish,White,Ohio,Refused,Scotland,No,NA,NA,
+Male,41,Divorced,A Levels,Scottish,White,Missouri,"$15,600 to $20,800",Scotland,No,NA,NA,
+Female,48,Widowed,No Qualification,Scottish,White,Newyork,"$5,200 to $10,400",Scotland,Yes,20,20,Packets
+Male,24,Single,A Levels,Scottish,White,Chicago,"$5,200 to $10,400",Scotland,No,NA,NA,
+Male,72,Widowed,No Qualification,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,Yes,40,40,Hand-Rolled
+Male,45,Married,GCSE/O Level,USA,White,Missouri,"$15,600 to $20,800",Scotland,No,NA,NA,
+Female,28,Married,Degree,USA,White,Newyork,"$28,600 to $36,400",Scotland,No,NA,NA,
+Male,20,Single,A Levels,Scottish,White,Chicago,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,69,Widowed,No Qualification,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,70,Married,No Qualification,Scottish,White,Missouri,"Under $2,600",Scotland,No,NA,NA,
+Male,50,Married,GCSE/CSE,Scottish,White,Newyork,"$15,600 to $20,800",Scotland,Yes,25,20,Both/Mainly Packets
+Male,63,Married,A Levels,Scottish,White,Chicago,"$5,200 to $10,400",Scotland,Yes,20,20,Packets
+Male,44,Married,GCSE/O Level,USA,White,Ohio,"$15,600 to $20,800",Scotland,No,NA,NA,
+Female,83,Widowed,No Qualification,Scottish,White,Missouri,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,17,Single,GCSE/CSE,Scottish,White,Newyork,"$5,200 to $10,400",Scotland,Yes,20,15,Packets
+Female,61,Married,Other/Sub Degree,Scottish,White,Chicago,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,47,Married,GCSE/O Level,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,Yes,15,20,Packets
+Male,57,Married,Degree,Scottish,White,Missouri,"$28,600 to $36,400",Scotland,No,NA,NA,
+Female,44,Married,GCSE/O Level,Scottish,White,Newyork,"$5,200 to $10,400",Scotland,Yes,15,10,Packets
+Male,52,Single,GCSE/CSE,Irish,White,Chicago,"$15,600 to $20,800",Scotland,Yes,25,20,Both/Mainly Packets
+Male,82,Married,No Qualification,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,No,NA,NA,
+Male,63,Married,A Levels,Scottish,White,Missouri,"$28,600 to $36,400",Scotland,No,NA,NA,
+Female,72,Separated,No Qualification,Scottish,White,Newyork,"$2,600 to $5,200",Scotland,No,NA,NA,
+Male,39,Married,Higher/Sub Degree,Scottish,White,Chicago,"Above $36,400",Scotland,No,NA,NA,
+Male,16,Single,No Qualification,Scottish,White,Ohio,Refused,Scotland,No,NA,NA,
+Female,35,Divorced,Degree,Scottish,White,Missouri,"$15,600 to $20,800",Scotland,No,NA,NA,
+Female,39,Married,Degree,Scottish,White,Newyork,"$10,400 to $15,600",Scotland,No,NA,NA,
+Male,56,Separated,No Qualification,Scottish,White,Chicago,Refused,Scotland,Yes,10,10,Hand-Rolled
+Female,31,Single,Other/Sub Degree,Scottish,White,Ohio,"$5,200 to $10,400",Scotland,Yes,60,30,Packets
+Male,61,Married,No Qualification,Scottish,White,Missouri,"Under $2,600",Scotland,No,NA,NA,
+Male,23,Separated,GCSE/O Level,Scottish,White,Newyork,"Under $2,600",Scotland,Yes,5,0,Packets
+Male,34,Single,No Qualification,Scottish,White,Chicago,"$10,400 to $15,600",Scotland,Yes,35,18,Both/Mainly Hand-Rolled
+Male,24,Single,Degree,Scottish,White,Ohio,"$15,600 to $20,800",Scotland,No,NA,NA,
+Male,82,Single,Other/Sub Degree,Scottish,White,Missouri,"$5,200 to $10,400",Scotland,No,NA,NA,
+Male,27,Married,A Levels,Scottish,White,Newyork,"$15,600 to $20,800",Scotland,No,NA,NA,
+Female,62,Divorced,GCSE/CSE,Scottish,White,Chicago,"$2,600 to $5,200",Scotland,Yes,18,18,Packets
+Male,39,Married,Higher/Sub Degree,USA,White,Ohio,"$20,800 to $28,600",Scotland,No,NA,NA,
+Male,44,Separated,No Qualification,Scottish,White,Missouri,"$2,600 to $5,200",Scotland,No,NA,NA,
+Female,43,Single,No Qualification,USA,White,Newyork,"$10,400 to $15,600",Scotland,Yes,25,20,Packets
+Male,31,Single,GCSE/O Level,Scottish,White,Chicago,"$2,600 to $5,200",Scotland,Yes,20,15,Both/Mainly Packets
+Male,77,Divorced,Other/Sub Degree,USA,Asian,Ohio,"$5,200 to $10,400",Scotland,Yes,20,10,Packets
+Female,20,Single,GCSE/O Level,USA,Asian,Missouri,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,81,Widowed,Other/Sub Degree,Scottish,Asian,Newyork,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,31,Single,GCSE/O Level,Scottish,Asian,Chicago,"$15,600 to $20,800",Scotland,Yes,20,10,Packets
+Female,78,Married,Other/Sub Degree,Scottish,Asian,Ohio,"$2,600 to $5,200",Scotland,No,NA,NA,
+Male,35,Married,A Levels,Scottish,Asian,Missouri,"$10,400 to $15,600",Scotland,No,NA,NA,
+Female,67,Widowed,No Qualification,Scottish,Asian,Newyork,"Under $2,600",Scotland,No,NA,NA,
+Male,65,Divorced,Other/Sub Degree,Scottish,Asian,Chicago,"$10,400 to $15,600",Scotland,No,NA,NA,
+Male,61,Married,Higher/Sub Degree,Scottish,Asian,Ohio,"$10,400 to $15,600",Scotland,No,NA,NA,
+Male,24,Single,No Qualification,Scottish,Asian,Missouri,"Under $2,600",Scotland,Yes,15,15,Hand-Rolled
+Male,53,Single,No Qualification,Scottish,Asian,Newyork,"$20,800 to $28,600",Scotland,No,NA,NA,
+Female,63,Married,No Qualification,USA,Asian,Chicago,Refused,Scotland,No,NA,NA,
+Male,35,Married,No Qualification,Scottish,Asian,Ohio,"$10,400 to $15,600",Scotland,Yes,3,12,Packets
+Male,78,Widowed,No Qualification,Scottish,Asian,Missouri,Refused,Scotland,No,NA,NA,
+Female,31,Single,Other/Sub Degree,Scottish,Asian,Newyork,"$5,200 to $10,400",Scotland,No,NA,NA,
+Male,22,Single,No Qualification,Scottish,Asian,Chicago,"$2,600 to $5,200",Scotland,No,NA,NA,
+Female,49,Divorced,Other/Sub Degree,USA,Asian,Ohio,"$2,600 to $5,200",Scotland,Yes,20,20,Hand-Rolled
+Male,45,Married,Other/Sub Degree,Scottish,Asian,Missouri,"$5,200 to $10,400",Scotland,No,NA,NA,
+Female,51,Married,No Qualification,USA,Asian,Newyork,"$2,600 to $5,200",Scotland,Yes,20,20,Packets
+Male,31,Married,Degree,Scottish,Asian,Chicago,"$10,400 to $15,600",Scotland,No,NA,NA,
