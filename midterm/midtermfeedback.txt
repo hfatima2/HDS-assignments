@@ -1,0 +1,1 @@
+For the most part, your calculations were correct. However, you missed one key interaction - the FEVPCT is a float value and there are float numbers between 49 and 50. This caused your FEV scores to default to 3 for values between 49 and 50 for example.
